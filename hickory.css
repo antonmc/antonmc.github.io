@@ -60,7 +60,6 @@ section{
 }
 
 .infoArea{
-	border: 1px dashed #bbcad2;
 	background: #fdfcfb;
 	border-radius: 5px;
 }
@@ -276,7 +275,7 @@ padding-top:0;
 #canvas {
 	max-width: 800px;
 	margin: 0px auto;
-	padding: 60px;
+	padding-top: 10px;
 }
 
 
@@ -382,7 +381,7 @@ padding-top:0;
 
 
 .page-divider {
-	border-bottom: 1px solid #000;
+	border-bottom: 1px dashed #bbcad2;
 }
 
 @media only screen and (max-width: 480px){
@@ -424,7 +423,7 @@ padding-top:0;
 
 @media screen and (max-device-width: 480px) and (orientation: portrait){
 	
- 	#projectThumbs .project {
+ 	/* #projectThumbs .project {
 		float: left;
 		margin-left: 1.9607843137254901%;
 		margin-top: 2%;
@@ -440,10 +439,9 @@ padding-top:0;
 	
 	#projectThumbs .project:nth-child(3n+1) {
 		clear: none;
-	}
+	} */
 
 }
-
 
 
 
