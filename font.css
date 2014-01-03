@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Hickory Website Font';
+  src: url('HickoryWebsiteFont-Regular.eot'); /* IE9 Compat Modes */
+  src: url('HickoryWebsiteFont-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('HickoryWebsiteFont-Regular.woff') format('woff'), /* Modern Browsers */
+       url('HickoryWebsiteFont-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('HickoryWebsiteFont-Regular.svg#133f6e2c4178374cf04dc4782aa245d5') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
