@@ -7,8 +7,9 @@ var projects = [ 	{ name:"Picker", thumbnail:"colorpicker.png"},
 					{ name:"DM", thumbnail:"dmthumb.png"},
 					{ name:"Cultura", thumbnail:"culturathumb.png"},
 					{ name:"Amnesty", thumbnail:"amnesty.png"},
-					{ name:"TeamBuilder", thumbnail:"teambuilder.png"},
-					{ name:"OrionProduct", thumbnail:"orioneclipse.png"}]; 
+					{ name:"Doodles", thumbnail:"moose.png"},
+					{ name:"OrionProduct", thumbnail:"orioneclipse.png"},
+					{ name:"TeamBuilder", thumbnail:"teambuilder.png"} ]; 
  
  
 function addTile( project ){
@@ -71,4 +72,5 @@ function addTile( project ){
  
 window.onload = function() {
 	projects.forEach( addTile );
+
 };
