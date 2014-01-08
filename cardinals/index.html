@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>Cardinal Map</title>
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link rel="stylesheet" href="cardinals.css" media="screen"/>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />		
+	</head>
+	<body id='mybody' class="background">
+		<div id="fb-root"></div>
+				 <div class="container-fluid">
+		 	<h3 class="title">Where the cardinals live and work - click on the map markers to learn more</h3>
+			<div class="mapcontainer">
+				<div id="map_canvas" class="cardinalmap"></div>
+			</div>
+			<div style="float:right;padding-top:15px;padding-right:0;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://goo.gl/o2bsy" data-text="Map of the cardinals of the 2013 #conclave" data-via="antonmc" data-count="none">Tweet</a>  <div class="fb-like" data-href="http://goo.gl/o2bsy" data-send="true" data-width="450" data-show-faces="false" data-font="lucida grande" data-action="recommend"></div></div>
+			<table class="container table table-striped table-bordered" style="margin-top:50px;width:75%;">
+		<tbody>
+		<tr><td>Original Data</td><td><a href="http://en.wikipedia.org/wiki/Cardinal_electors_for_the_papal_conclave,_2013">Wikipedia: electors for the papal conclave</a></td></tr>
+		<tr><td>Page Data</td><td><a href="https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dEh5S0o4eUdxd0RQTE50ekI0VGFPb1E&output=html">Google Spreadsheet: electors for the papal conclave</a></td></tr>
+		<tr><td>Data transfer API</td><td><a href="http://builtbybalance.com/Tabletop/">Tabletop JavaScript Library</a></td></tr>
+		<tr><td>Maps API</td><td><a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps JavaScript API</a></td></tr>
+		<tr><td>Built with</td><td><a href="http://oriohub.org">Orion</a></td></tr>
+		<tr><td>Blog</td><td><a href="http://www.hickory.ca/2013/03/12/making-maps-with-tabletop/">Building maps with TableTop and Google</a></td></tr>
+		<tr><td>Source</td><td><a href="https://github.com/antonmc/sheetmap">Github repository</a></td></tr></tr>
+		<tr><td>About</td><td><div style="font-size:10px;">Developed as a learning exercise by <a href="https://twitter.com/antonmc">@antonmc</a>, <a href="https://twitter.com/jackoosh99">@jackoosh99</a> we make no guarantees on accuracy of data <br/><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png" /></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</div></td></tr>
+		</tbody>
+		</table>
+		</div>
+		
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9UTKaObKmwVVc3uggMSJjOeWk_nxAdR4&sensor=true"></script>
+		<script	src="src/tabletop.js"></script>
+		<script src="cardinals.js"></script>
+		<script>
+		
+			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+		
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-2417759-1']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	
+		</script>
+
+	</body>
+</html>
+
