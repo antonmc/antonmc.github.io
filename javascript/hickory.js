@@ -1,3 +1,6 @@
+/*global document google Tabletop Showdown*/
+/*jslint browser:true*/
+
 var projects = [ 	{ name:"Picker", thumbnail:"colorpicker.png"}, 
 					{ name:"Timeline", thumbnail:"timeline.png"},
 					{ name:"Orion", thumbnail:"orion.png"},
@@ -34,13 +37,13 @@ function addTile( project ){
 	projectTitle.className = 'project-title';
 	projectTitle.innerHTML = project.name;
 	
-	var image = document.createElement( 'image' );
+	var image = document.createElement( 'img' );
 	image.style.top = '0';
 	image.style.left =  '0';
 	image.style.width = '194px';
 	image.style.height =  '194px'; 
 	image.style.position = 'relative';
-	image.src = 'portfolio/thumbnails/' + project.thumbnail;
+	image.src = 'http://www.hickory.ca/portfolio/thumbnails/' + project.thumbnail;
 	
 	borderedPic.onmouseover = function(){
 		projectTitle.style.opacity = 1;
@@ -72,5 +75,4 @@ function addTile( project ){
  
 window.onload = function() {
 	projects.forEach( addTile );
-
 };
