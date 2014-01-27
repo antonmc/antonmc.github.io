@@ -1,5 +1,11 @@
 .body{
-	background: #faf9f6;
+	background: #d7e7e7; /* #faf9f6; */
+	margin:0;
+}
+
+.siteBody{
+	background: #faf9f6; 
+	margin:0;
 }
 
 
@@ -13,7 +19,7 @@
 }
 
 .layout-style-center #topNav nav, .layout-style-center #topNav ul, .layout-style-center #topNav li {
-	display: inline-block;
+	display: inline-block;x
 	float: none;
 }
 
@@ -52,7 +58,7 @@ section{
 	padding: 10px;
 	/* box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); */
 	border-radius: 5px;
-	border: 1px dashed #bbcad2;
+	/* border: 1px dashed #bbcad2; */
 }
 
 .main-nav{
@@ -60,8 +66,9 @@ section{
 }
 
 .infoArea{
-	border-bottom: #bbcad2 1px solid;
+	/* border-bottom: #bbcad2 1px solid; */
 	margin-bottom:20px;
+	background:white;
 }
 
 .title{

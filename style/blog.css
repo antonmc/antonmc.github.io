@@ -133,11 +133,14 @@
 	color: #bbcad2; /* #AFC9B7; */
 }
 
-.post{
-	margin-bottom: 10px;
+.post {
+	margin-bottom: 30px;
 	padding-right: 50px;
 	padding-top: 10px;
-	padding-bottom:10px;
+	padding-bottom: 10px;
+	padding: 40px;
+	background: white;
+	border-radius: 5px;
 }
 
 .background{

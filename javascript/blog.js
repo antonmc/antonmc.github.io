@@ -12,8 +12,8 @@ function plot( data ){
 
 	var postContent = '<span><!-- span class="entry">' + data.id + '</span --><h3 class="blogtitle">' + data.title + '</h3></span>' +
 						'<p class="metadata">Entry ' + data.id + ' - Posted by ' + data.author + ' on ' + dateString + '</p>' +
-						' <div class="post-content">' + content + '</div>' +
-						'<p class="stats">Hours worked: ' + data.hoursworked + '</p>';
+						' <div class="post-content">' + content + '</div>';
+						
 		
 	post.innerHTML = postContent;
 	var posts = document.getElementById( 'posts' );

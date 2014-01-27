@@ -13,6 +13,7 @@ var projects = [ 	{ name:"Picker", thumbnail:"colorpicker.png"},
 					{ name:"Doodles", thumbnail:"moose.png"},
 					{ name:"OrionProduct", thumbnail:"orioneclipse.png"},
 					{ name:"TeamBuilder", thumbnail:"teambuilder.png"} ]; 
+
  
  
 function addTile( project ){
