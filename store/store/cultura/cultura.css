@@ -244,3 +244,10 @@ h1, h2, h3 {
 	background-color: #e6e6e6;
 }
 
+.tellMeMore{
+	padding: 20px;
+	padding-top: 0;
+	color: #666;
+	font-size: 11pt;
+}
+

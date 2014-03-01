@@ -131,7 +131,7 @@ function showInfo(data) {
 										'<p><strong>Valid for: ' + overview.elements[element].duration + '</strong></p>' + 
 										
 										'<div class="modal-footer">'+
-											'<button style="" id="' + overview.elements[element].identifier + '" onclick=showDetails(event) class="' + buttonClass + '">Purchase ' + overview.elements[element].description + ' Course</button>' +
+											'<button style="" id="' + overview.elements[element].identifier + '" onclick=showDetails(event) class="' + buttonClass + '">Purchase program licence for the ' + overview.elements[element].description + ' Course</button>' +
 										'</div>' +
 									'</div>' +
 								'</div>';
