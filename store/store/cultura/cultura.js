@@ -53,7 +53,9 @@ var terms =	'<p>TELL ME MORE is an independent program, made accessible ' +
 			'<p>3 months without exceptions, including any technical failure experienced during the validity of the course.</p>' + 			
 			'<p class="description"><strong>Payment</strong></p>' +
 			'<p>All prices are quoted in Canadian dollars, and are valid and effective only in Canada. The total order amount, including tax will be charged to your credit card in full at the time the order is placed. No exchanges or refunds are available.</p>' + 
-			'<p>We accept Visa and Master Card.</p>' + 						
+			'<p>We accept Visa and Master Card.</p>' + 	
+			'<p class="description"><strong>Delivery</strong></p>' +
+			'<p>Please allow 1 to 2 business days after your charges have gone through for your license to be sent to your email address ( the email address used in payment )</p>' +
 			'<p class="description"><strong>Cancellations or Returns</strong></p>' +
 			'<p>We do not accept order cancellations. We do not accept returns due to the nature of product.</p>' +					
 			'<p class="description"><strong>Warranty</strong></p>' +
