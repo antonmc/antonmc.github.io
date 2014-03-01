@@ -128,6 +128,7 @@ function showInfo(data) {
 										lexicalContent +
 										'<p class="description"><strong>Grammar</strong></p>' +
 										grammarContent +
+										'<p><strong>Price: ' + overview.elements[element].cost + '</strong></p>' +
 										'<p><strong>Valid for: ' + overview.elements[element].duration + '</strong></p>' + 
 										
 										'<div class="modal-footer">'+
