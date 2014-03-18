@@ -82,8 +82,8 @@ section{
 .subtitle{
 	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
 	color:#2b88ab;
-	margin:20px;
-	font-size:16px;
+	margin:2px;
+	font-size:20px;
 }
 
 .selected{
@@ -472,9 +472,9 @@ padding-top:0;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	color: #8899a2;
-	font-family: sans-serif;
+	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
 	color: #2b88ab;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .sketch {
@@ -488,20 +488,20 @@ padding-top:0;
 .sketch-about {
 	padding: 0px 10px 5px 10px;
 	margin: 0 0 0px 0;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.4;
 	color: #8899a2;
-	font-family: sans-serif;
+	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
 	color: #2b88ab;
 }
 
 #aside p {
 	padding: 0px 10px 5px 10px;
 	margin: 0 0 0px 0;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.4;
 	color: #8899a2;
-	font-family: sans-serif;
+	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
 	color: #2b88ab;
 }
 
