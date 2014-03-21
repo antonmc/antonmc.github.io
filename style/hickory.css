@@ -307,9 +307,9 @@ padding-top:0;
 
 
 .project-title {
-	position: absolute;
+	position: relative;
 	left: 0;
-	top: 45%;
+	top: -50%;
 	z-index: 9999;
 	width: 100%;
 	opacity: 0;
