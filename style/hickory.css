@@ -69,6 +69,10 @@ section{
 	/* border-bottom: #bbcad2 1px solid; */
 	margin-bottom:20px;
 	background:white;
+	display: -moz-box;
+	width: 100%;
+	-moz-box-pack: center;
+	-moz-box-orient: vertical;
 }
 
 .title{
