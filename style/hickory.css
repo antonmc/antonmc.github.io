@@ -450,7 +450,7 @@ padding-top:0;
 
 @media screen and (max-device-width: 480px) and (orientation: portrait){
 	
- 	#projectThumbs .project {
+/* 	#projectThumbs .project {
 		float: left;
 		margin-left: 1.9607843137254901%;
 		margin-top: 2%;
@@ -466,7 +466,7 @@ padding-top:0;
 	
 	#projectThumbs .project:nth-child(3n+1) {
 		clear: none;
-	}
+	} */
 
 }
 
