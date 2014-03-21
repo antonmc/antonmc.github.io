@@ -307,9 +307,9 @@ padding-top:0;
 
 
 .project-title {
-	position: relative;
+	position: absolute;
 	left: 0;
-	top: -50%;
+	top: 45%;
 	z-index: 9999;
 	width: 100%;
 	opacity: 0;
@@ -410,6 +410,7 @@ padding-top:0;
 	border-bottom: 1px dashed #bbcad2;
 }
 
+
 @media only screen and (max-width: 480px){
 	
 	#projectThumbs .project .project-image .intrinsic {
@@ -449,7 +450,7 @@ padding-top:0;
 
 @media screen and (max-device-width: 480px) and (orientation: portrait){
 	
- 	/* #projectThumbs .project {
+ 	#projectThumbs .project {
 		float: left;
 		margin-left: 1.9607843137254901%;
 		margin-top: 2%;
@@ -465,7 +466,7 @@ padding-top:0;
 	
 	#projectThumbs .project:nth-child(3n+1) {
 		clear: none;
-	} */
+	}
 
 }
 

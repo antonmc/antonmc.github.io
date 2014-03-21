@@ -9,7 +9,7 @@ var projects = [ 	{ name:"Picker", thumbnail:"colorpicker.png"},
 					{ name:"ShelterBox", thumbnail:"shelterbox.png"},
 					{ name:"DM", thumbnail:"dmthumb.png"},
 					{ name:"Cultura", thumbnail:"culturathumb.png"},
-					{ name:"Amnesty", thumbnail:"amnesty.png"},
+					{ name:"Amnesty", thumbnail:"amnesty.png", path:"http://www.hickory.ca/campaigner/"},
 					{ name:"Doodles", thumbnail:"moose.png"},
 					{ name:"OrionProduct", thumbnail:"orioneclipse.png"},
 					{ name:"TeamBuilder", thumbnail:"teambuilder.png"} ]; 
@@ -20,6 +20,12 @@ function addTile( project ){
 
 	var element = document.createElement( 'a' );
 	element.className = 'project';
+	
+	if( project.path ){
+		element.href = project.path;
+	}
+	
+	var container = document.createElement( 'div' );
 
 	var borderedPic = document.createElement( 'div' );
 	borderedPic.className = 'borderedPic';
@@ -66,8 +72,9 @@ function addTile( project ){
 	intrinsic.appendChild( contentFill );
 	projectImage.appendChild( intrinsic );
 	borderedPic.appendChild( projectImage );
-	element.appendChild( borderedPic );
-	element.appendChild( projectTitle );
+	container.appendChild( borderedPic );
+	container.appendChild( projectTitle );
+	element.appendChild( container );
 	
 	var wrapper = document.getElementById( 'wrapper' );
 	
