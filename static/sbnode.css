@@ -320,3 +320,12 @@ footer {
     font-weight: bold;
 
 }
+
+.infoArea {
+    margin-bottom: 20px;
+    margin-top: 50px;
+    display: -moz-box;
+    width: 100%;
+    -moz-box-pack: center;
+    -moz-box-orient: vertical;
+}
