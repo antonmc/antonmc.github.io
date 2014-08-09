@@ -31,7 +31,7 @@ nav ul, nav ol {
 }
 
 a{
-	color:#f1ccb3;
+	color:#777;
 }
 
 #page {
@@ -85,7 +85,7 @@ section{
 
 .subtitle{
 	font-family: 'Open sans', 'Source Sans Pro', sans-serif;
-	color:#D15600;
+	color:#555;
 	margin:2px;
 	font-size:20px;
 }
