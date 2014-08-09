@@ -19,7 +19,7 @@
 }
 
 .layout-style-center #topNav nav, .layout-style-center #topNav ul, .layout-style-center #topNav li {
-	display: inline-block;x
+	display: inline-block;
 	float: none;
 }
 
@@ -31,7 +31,7 @@ nav ul, nav ol {
 }
 
 a{
-	color:#bbcad2;
+	color:#f1ccb3;
 }
 
 #page {
@@ -76,7 +76,7 @@ section{
 }
 
 .title{
-	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
+	font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
 	color:#D15600;
 	margin:10px;
 	font-size:36px;
@@ -84,14 +84,14 @@ section{
 }
 
 .subtitle{
-	font-family: 'Patrick Hand', 'Source Sans Pro', sans-serif;
+	font-family: 'Open sans', 'Source Sans Pro', sans-serif;
 	color:#D15600;
 	margin:2px;
 	font-size:20px;
 }
 
 .selected{
-	color:#2b88ab;
+	color:#D15600;
 }
 
 .aboutIcon{
