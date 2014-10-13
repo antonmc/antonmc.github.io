@@ -3,6 +3,11 @@
 	margin:0;
 }
 
+.sbbody{
+	background: #f0f7f5; /* #faf9f6; */
+	margin:0;
+}
+
 .siteBody{
 	background: #faf9f6; 
 	margin:0;
@@ -540,4 +545,20 @@ padding-top:0;
 	margin-right: auto;
 	width: 210px;
 	padding-top: 20px;
+}
+
+.modal-dialog {
+    width: 800px;
+}
+
+
+.screenborder{
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-top:30px;
+    padding:6px;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
+-webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
 }

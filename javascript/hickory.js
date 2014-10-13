@@ -20,10 +20,16 @@ function addTile( project ){
 
 	var element = document.createElement( 'a' );
 	element.className = 'project';
+    
 	
 	if( project.path ){
 		element.href = project.path;
-	}
+        
+       
+	}else{
+        element.href = '#demoLightbox';   
+        element.setAttribute( 'data-toggle', 'lightbox' );
+    }
 	
 	var container = document.createElement( 'div' );
 
