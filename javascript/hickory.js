@@ -59,7 +59,7 @@ function addTile( project ){
 	image.style.width = '194px';
 	image.style.height =  '194px'; 
 	image.style.position = 'relative';
-	image.src = 'http://www.hickory.ca/portfolio/thumbnails/' + project.thumbnail;
+	image.src = './portfolio/thumbnails/' + project.thumbnail;
 	
 	borderedPic.onmouseover = function(){
 		projectTitle.style.opacity = 1;
