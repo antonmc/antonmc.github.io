@@ -27,8 +27,11 @@ function addTile( project ){
         
        
 	}else{
-        element.href = '#demoLightbox';   
-        element.setAttribute( 'data-toggle', 'lightbox' );
+//        element.href = '#demoLightbox';   
+//        element.setAttribute( 'data-toggle', 'lightbox' );
+        
+        element.href = "./pages/detail.html?project=" + project.name;
+        
     }
 	
 	var container = document.createElement( 'div' );
@@ -87,6 +90,17 @@ function addTile( project ){
 	wrapper.appendChild( element );
 } 
  
+//window.onload = function() {
+//	projects.forEach( addTile );
+//};
+
+function showInfo(data) {
+    var projects = data.projects.elements;
+    
+    projects.forEach( addTile );
+}
+
 window.onload = function() {
-	projects.forEach( addTile );
+    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dC1UTU9OZnh1QTlyX3V6clJpNmtxUWc&output=html';
+    Tabletop.init({ key: spreadsheet, callback: showInfo });
 };
