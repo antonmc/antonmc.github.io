@@ -18,10 +18,6 @@
 	margin-top: 16px;
 }
 
-#projectThumbs .project > div {
-    position: relative;
-}
-
 #header:before, #page:before, #footer:before, footer:before, .meta-row:before, .clear:before, #header:after, #page:after, #footer:after, footer:after, .meta-row:after, .clear:after {
 	content: "";
 	display: table;
@@ -457,27 +453,6 @@ padding-top:0;
 }
 
 
-@media screen and (max-device-width: 480px) and (orientation: portrait){
-	
-/* 	#projectThumbs .project {
-		float: left;
-		margin-left: 1.9607843137254901%;
-		margin-top: 2%;
-		width: 48.03921568627451%;
-		cursor: pointer;
-	
-	}
-	
-	#topNav nav li {
-	position: relative;
-	margin: 12px;
-	}
-	
-	#projectThumbs .project:nth-child(3n+1) {
-		clear: none;
-	} */
-
-}
 
 #aside h3 {
 	padding: 20px 10px 0px 10px;
