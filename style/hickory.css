@@ -18,6 +18,10 @@
 	margin-top: 16px;
 }
 
+#projectThumbs .project > div {
+    position: relative;
+}
+
 #header:before, #page:before, #footer:before, footer:before, .meta-row:before, .clear:before, #header:after, #page:after, #footer:after, footer:after, .meta-row:after, .clear:after {
 	content: "";
 	display: table;
