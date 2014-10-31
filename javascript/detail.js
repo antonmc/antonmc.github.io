@@ -34,7 +34,7 @@ function renderSelected( project ){
              
         var breadcrumb = document.getElementById( "projectname" );
         
-        breadcrumb.innerHTML = project.name;
+//        breadcrumb.innerHTML = project.name;
         
         var view = document.getElementById( "view" );
         
