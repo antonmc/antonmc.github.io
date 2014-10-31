@@ -1,9 +1,10 @@
 <html>
 <head>
 	<link rel="stylesheet" href="../font/font.css">
+    <link rel="stylesheet" href="../font/font.css">
+	<link rel="stylesheet" href="../font/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../style/hickory.css">
 	<link rel="stylesheet" type="text/css" href="../style/blog.css">
-		<link href='http://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 	<title>ShelterBox Blog</title>
 	<script	src="../javascript/moment.js"></script>
@@ -84,10 +85,10 @@
  
        
  
-        <ul class="breadcrumbs">
+        <!-- ul class="breadcrumbs">
           <li><a href="../">Home</a></li>
           <li class="unavailable"><a href="#" id="projectname"></a></li>
-        </ul>
+        </ul -->
  
        
  
@@ -106,50 +107,42 @@
           <div class="large-6 columns">
  
             <h3 class="show-for-small">Header<hr/></h3>
- 
+               
             <div class="panel">
-              <h4 class="hide-for-small">Overview<hr/></h4>
+                <h4 class="hide-for-small"><i class="fa fa-bookmark" style="padding-right:10px;"></i>Overview<hr/></h4>
             <h5 class="subheader" id="overview"></h5>
+            </div>
+              
+              <div class="panel">
+               <h5><i class="fa fa-lightbulb-o" style="padding-right:10px;"></i>Design Goal</h5>
+                    <hr/>
+                <h6 class="subheader" id="designgoal"></h6>
             </div>
  
           <div class="row">
-              <div class="large-6 small-6 columns">
-                <div class="panel">
-                  <h5>Design Goal</h5>
-                    <hr/>
-                <h6 class="subheader" id="designgoal"></h6>
-                </div>
-              </div>
+              
  
               <div class="large-6 small-6 columns">
                 <div class="panel">
-                  <h5>Technology</h5>
+                  <h5><i class="fa fa-cogs" style="padding-right:10px;"></i>Technology</h5>
                     <hr/>
                 <h6 class="subheader" id="technology"></h6>
+                </div>
+              </div>
+              
+              <div class="large-6 small-6 columns">
+                <div class="panel">
+                            <h5 class="hide-for-small"><i class="fa fa-link" style="padding-right:10px;"></i>Links<hr/></h5>
+                  <h6><i class="fa fa-globe" style="padding-right:10px;"></i><a id="site" href="../">Site</a></h6>
+                  <h6><i class="fa fa-hdd-o" style="padding-right:10px;"></i><a id="repo" href="../">Repository</a></h6>
                 </div>
               </div>
               
               
           </div>
               
-              <div class="row">
-              <div class="large-6 small-6 columns">
-                <div class="panel">
-                  <h5>Site</h5>
-                    <hr/>
-                <a id="site" href="../">Website</a>
-                </div>
-              </div>
- 
-              <div class="large-6 small-6 columns">
-                <div class="panel">
-                  <h5>Repo</h5>
-                    <hr/>
-                        <a id="repo" href="../">Repository</a>
-                </div>
-              </div>
               
-              
+
           </div>
  
           </div>
@@ -165,7 +158,7 @@
  
           <div class="large-12 columns">
             <div class="radius panel">
-                  <h5>Background</h5>
+                  <h5><i class="fa fa-book" style="padding-right:10px;"></i>Background</h5>
                 <hr/>
                 <h6 class="subheader" id="story"></h6>
  
@@ -233,7 +226,6 @@
               </div>
  
             </div>
-        </div>
       </footer>
  
        
