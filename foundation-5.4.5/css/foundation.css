@@ -3457,7 +3457,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #222222;
+  color: #555555;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -3493,7 +3493,7 @@ h6 {
   margin-bottom: 0.5rem; }
 
 hr {
-  border: solid #dddddd;
+  border: dotted #cccccc;
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;

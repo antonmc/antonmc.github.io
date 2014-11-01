@@ -540,3 +540,26 @@ padding-top:0;
     box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
 -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
 }
+
+
+/* - - - details - - - */
+
+.detailsbody{
+    background: #fefbf9;  
+    color: #777 !important;
+}
+
+.detailspanel {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+    color: #5a5552;
+}
+
+.detailstitle{
+    color:#D15600;   
+}
+
+
