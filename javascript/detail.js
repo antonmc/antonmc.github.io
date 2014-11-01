@@ -38,6 +38,10 @@ function renderSelected( project ){
         
         breadcrumb.innerHTML = project.name;
         
+        var pagetitle = document.getElementById( 'pagetitle' );
+                                                              
+        pagetitle.innerHTML = project.name + " - a project by Anton McConville";
+        
         var view = document.getElementById( "view" );
         
         view.src = "../images/panels/" + project.view;
