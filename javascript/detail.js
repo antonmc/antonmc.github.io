@@ -30,6 +30,8 @@ function renderSelected( project ){
     
     var selectedProject = getUrlParameters("project", "", true);
     
+    var converter = new Showdown.converter();
+    
     if( project.name === selectedProject ){
              
         var breadcrumb = document.getElementById( "projectname" );
@@ -42,19 +44,19 @@ function renderSelected( project ){
         
         var overviewArea = document.getElementById( "overview" );
         
-        overviewArea.innerHTML = project.overview;
+        overviewArea.innerHTML = converter.makeHtml( project.overview );
         
         var designGoalArea = document.getElementById( "designgoal" );
         
-        designGoalArea.innerHTML = project.goal;
+        designGoalArea.innerHTML = converter.makeHtml( project.goal );
         
         var technologyArea = document.getElementById( "technology" );
         
-        technologyArea.innerHTML = project.tech;
+        technologyArea.innerHTML = converter.makeHtml( project.tech );
         
         var storyArea = document.getElementById( "story" );
         
-        storyArea.innerHTML = project.story;
+        storyArea.innerHTML = converter.makeHtml( project.story );
         
         var site = document.getElementById( "site" );
         
@@ -72,6 +74,13 @@ function showInfo(data) {
     var projects = data.projects.elements;
     
     projects.forEach( renderSelected );
+}
+
+function readGoogleData(){
+ 
+    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dC1UTU9OZnh1QTlyX3V6clJpNmtxUWc&output=html';
+    
+    Tabletop.init({ key: spreadsheet, callback: showInfo });
 }
 
 
@@ -101,6 +110,7 @@ function readLocalData()
 window.onload = function() {
     
     readLocalData();
-//    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dC1UTU9OZnh1QTlyX3V6clJpNmtxUWc&output=html';
-//    Tabletop.init({ key: spreadsheet, callback: showInfo });
+    
+//  readGoogleData();
+
 };

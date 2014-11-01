@@ -91,6 +91,8 @@ function addTile( project ){
 //};
 
 function showInfo(data) {
+    
+    console.log( JSON.stringify( data ) );
         
     var projects = data.projects.elements;
     
@@ -109,7 +111,10 @@ function readLocalData()
     
     xmlhttp.onreadystatechange=function(){
         if (xmlhttp.readyState==4 && xmlhttp.status==200){
+            
             var data = JSON.parse( xmlhttp.responseText );
+            
+            
             
             showInfo( data );
         }
@@ -130,5 +135,5 @@ window.onload = function() {
     
 //    showInfo( data );
     
-//    Tabletop.init({ key: spreadsheetData, callback: showInfo });
+//    Tabletop.init({ key: spreadsheet, callback: showInfo });
 };
