@@ -111,10 +111,13 @@ function readLocalData()
 }
 
 
-window.onload = function() {
+window.onload = function() {  
     
-    readLocalData();
+    var live = true;
     
-//  readGoogleData();
-
+    if( live === true ){
+        readLocalData();
+    }else{
+        readGoogleData()
+    }
 };

@@ -124,16 +124,20 @@ function readLocalData()
     xmlhttp.send();
 }
 
+function readGoogleData(){
+    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dC1UTU9OZnh1QTlyX3V6clJpNmtxUWc&output=html';
+    Tabletop.init({ key: spreadsheet, callback: showInfo });
+}
 
-window.onload = function() {
-//    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dC1UTU9OZnh1QTlyX3V6clJpNmtxUWc&output=html';
-  
+
+
+window.onload = function() {  
+    
+    var live = true;
+    
+    if( live === true ){
         readLocalData();
-    
-    
-//    var data = JSON.parse( spreadsheetData );
-    
-//    showInfo( data );
-    
-//    Tabletop.init({ key: spreadsheet, callback: showInfo });
+    }else{
+        readGoogleData()
+    }
 };
