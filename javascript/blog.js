@@ -17,7 +17,7 @@ function plot( data ){
 		
 	post.innerHTML = postContent;
 	var posts = document.getElementById( 'posts' );
-	posts.appendChild( post );
+	posts.appendChild( post ); 
 }
 
 function showInfo(data) {

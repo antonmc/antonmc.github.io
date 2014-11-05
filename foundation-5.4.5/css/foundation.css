@@ -3493,7 +3493,7 @@ h6 {
   margin-bottom: 0.5rem; }
 
 hr {
-  border: dotted #cccccc;
+  border: 1px solid rgb(232, 232, 232);
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;

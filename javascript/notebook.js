@@ -18,6 +18,10 @@ function plot( data ){
 	post.innerHTML = postContent;
 	var posts = document.getElementById( 'posts' );
 	posts.appendChild( post );
+    
+     
+    var divider = document.createElement( 'hr' );
+    posts.appendChild( divider );
 }
 
 function showInfo(data) {
