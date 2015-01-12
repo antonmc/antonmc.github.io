@@ -191,6 +191,29 @@ section{
 }
 
 
+.robotIcon{
+	font-size: 36px;
+	line-height: normal;
+	vertical-align: middle;
+	font-family: 'Hickory Website Font';
+	padding: 0;
+	background: none;
+	border: none;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration:none;
+}
+
+.robotIcon:before{
+	content:'\0047';
+}
+
+
+.robotIcon:hover{
+	color:#2b88ab;
+}
+
 .amIcon{
 	font-size: 72px;
 	line-height: normal;

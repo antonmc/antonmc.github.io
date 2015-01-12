@@ -113,7 +113,7 @@ function readLocalData()
 
 window.onload = function() {  
     
-    var live = true;
+    var live = false;
     
     if( live === true ){
         readLocalData();
