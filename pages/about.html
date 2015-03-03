@@ -1,13 +1,20 @@
 <html>
 <head>
 	<link rel="stylesheet" href="../font/font.css">
-	<link rel="stylesheet" href="../font/font-awesome.min.css">
+    <link rel="stylesheet" href="../font/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../style/hickory.css">
+	<link rel="stylesheet" type="text/css" href="../style/blog.css">
 		<link href='http://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-	<title>About Anton McConville</title>
+	<title>ShelterBox Blog</title>
+	<script	src="../javascript/moment.js"></script>
+	<script	src="../javascript/tabletop.js"></script>
+	<script src="../javascript/markdown.js"></script>
+	<script src="../javascript/notebook.js"></script>
+    
+    <link rel="stylesheet" href="../foundation-5.4.5/css/foundation.css"/>
+<script src="../foundation-5.4.5/js/modernizr.js"></script>
 	<script type="text/javascript">
-
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-2417759-1']);
 	  _gaq.push(['_trackPageview']);
@@ -17,10 +24,9 @@
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-	
 	</script>
 </head>
-<body class="sitebody">
+<body class="body">
 <div class="infoArea">
     <div id="logo" class="box-wrap-inner" data-content-field="site-title">      
 		        <div class="logo"><!-- a href="/"><img src="logo.png" alt="Anton McConville"></a --></div>
@@ -28,126 +34,169 @@
 			<div class="box-wrap-inner title">Anton McConville</div>
 			<div class="box-wrap-inner subtitle">Digital Designer and Developer</div>
 		    <div class="box-wrap-inner" id="topNav">
-
-		<nav class="main-nav">
+                
+                <nav class="main-nav">
 			<ul>
 			<li>
 				<a class="workIcon" href="../index.html"></a>
 			</li>
 			<li>
-				<a class="aboutIcon selected active-link" href="./about.html"></a>
+				<a class="aboutIcon" href="./about.html"></a>
 			</li>
 			<li>
-            	<a class="blogIcon" href="blog.html"></a>
+            	<a class="blogIcon" href="./blog.html"></a>
 			</li>
       		<li>
-            	<a class="sbIcon" href="shelterbox.html"></a>
-	        </li>
+            	<a class="sbIcon selected active-link" href="shelterbox.html"></a>
+	      </li>
             <li>
-            	<a class="robotIcon" href="robots.html"></a>
-	        </li>                
+                <a class="robotIcon" href="./robots.html"></a>
+	        </li>
 		</ul>
 		</nav>
+
 	</div>
 	</div>
-<div id="canvas">
 	
+	<!-- div class="wrapper-inner description" style="font-family:sans-serif">
 	
-  
-
-
-
-<div id="projectThumbs">
-  <div class="wrapper" id ="wrapper">
-    
-      <div class="box-wrap-inner" data-flexie-id="1" data-flexie-parent="true" style="-webkit-box-orient: horizontal; -webkit-box-align: stretch; -webkit-box-direction: normal; -webkit-box-pack: center;">
-	      <div id="box-1" class="aboutMe" data-flexie-id="2" style="height: 295px; -webkit-box-ordinal-group: 1; -webkit-box-flex: 0;">
-	      <aside id="sidebar" class="bannerLine">
-		<div id="aside">
-			<h3>About</h3>	
-				<div class="sketch-about">hickory.ca is the online home of Anton McConville, an Irish/Canadian web designer and developer, living and working in Ottawa, Canada. </div>
-    			<p>I've developed, designed, advised and managed digital projects in four countries, eleven different labs.</p>
-                <p>Interested in connection, insight and service using data, social media and modern software.</p>
-                <p>Working to transform facts into feelings!</p>
-    			<div class="sketch"></div>
-    			<!-- div class="sketch-line"></div -->
-			<h3>My work</h3>	
-			
-				<p>My work with web software began more than a decade ago. Mostly it has been spent developing vector based software, and applications around table based data.</p> <p>My most recent work has given me an opportunity to think more about visual design, user experience and user engagement.</p>
-				
-				<p>My work with iOS began two years ago, and I love working in that medium.</p>
-				
-				<p>I'm happy in my work :)</p>
-
-				<div style="margin-top:30px"></div>
-			    <!-- div class="sketch-line"></div -->
-				<div style="margin-bottom:30px"></div>
-
-			</div></aside>
-		</div>
-
-	      <div id="box-3" class="photo" data-flexie-id="4" style="height: 295px; -webkit-box-ordinal-group: 1; -webkit-box-flex: 0;">
-	        <aside id="sidebar" class="bannerLine">
-		<div id="aside">
-			<h3>LINKS</h3>	
-				<div class="sketch-about">You can contact me, and find out more about my work, thoughts and interests from the following links:</div>
-
-				<div class="socialmedia">
-					<a class="fa fa-linkedin-square social" href="http://www.linkedin.com/in/antonmc"></a>
-					<a class="fa fa-twitter social" href="http://www.twitter.com/antonmc"></a>
-					<a class="fa fa-pinterest social" href="http://www.pinterest.com/antonmc/"></a>
-					<a class="fa fa-github-alt social" href="http://github.com/antonmc"></a>
-                    <a class="fa fa-instagram social" href="http://instagram.com/antonmc"></a>
-				</div>
-
-    			<div style="margin-top:30px"></div>
-			    <!-- div class="sketch-line"></div -->
-				<div style="margin-bottom:30px"></div>
-				
-			<h3>SITE</h3>	
-				
-				<p>My web software is typically pure CSS, HTML and JavaScript. I use some utility libraries for markdown parsing with the blogs.</p>
-				<p>My blogs are powered by markdown and they use Google Spreadsheets as a database.</p>
-				<p>My site has its own icon font. I use Adobe Illustrator and Glyphs for my artwork.</p>
-
-    			<div style="margin-top:30px"></div>
-			    <!-- div class="sketch-line"></div -->
-				<div style="margin-bottom:30px"></div>	
-
-			<h3>INTERESTS</h3>	
-				
-				<p>I try to play my guitar and sing for a little while every day.</p>
-				<p>At weekends I'm usually excited to watch a soccer game, go for a long distance run, cook a tasty vegetarian meal, read and relax.</p>
-				<p>I like presenting what I've learned, and I love to travel. I've presented at international conferences in six countries.</p>
-
-				<div style="margin-top:30px"></div>
-			    <!-- div class="sketch-line"></div -->
-				<div style="margin-bottom:30px"></div>
-
-	</div></aside>
-	      
-	      </div>
-      </div>
-       
-  </div>
-</div>
-
-    <div class="extra-wrapper page-footer">
-      <div class="sqs-layout sqs-grid-12 columns-12" data-type="block-field" data-updated-on="1384462827883" id="page-footer-5213862be4b049f983e5a0a6"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
-    </div>
-
-
-    <footer id="footer">
-      <div class="sqs-layout sqs-grid-1 columns-1" data-type="block-field" data-updated-on="1384533199820" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
-      
-        
-        <div id="socialLinks" class="social-links">
-          <a href="https://twitter.com/timboelaars" target="_blank" class="social-twitter"></a><a href="http://instagram.com/timboelaars" target="_blank" class="social-instagram"></a><a href="http://timboelaars.tumblr.com" target="_blank" class="social-tumblr"></a>
+	<div class="cover-body-inner">
+        <div class="panel">
+            <h1 class="box-wrap-inner sbcover-title" >ShelterBox Mobile App - creating a data driven iPhone app for a non profit</h1>
         </div>
-        
+	</div -->
+    
+    
+    
+    
+
+    
+    <div class="row">
+        <div class="large-12 columns">
       
-    </footer>
-        
-  </div>
+        </div>
+    </div>
+                     
+<div class="row">
+    <div class="large-12 columns">
+       
+    </div>
+</div>
+                     
+                     
+<div class="row">
+    <div class="large-12 columns">
+        <div class="row">
+
+            <div class="large-8 columns">
+                
+                      <div class="sbpanel radius">
+                          <h5 class="sbtitle"><i class="fa fa-info-circle" style="padding-right:10px;"></i>Motivation</h5>
+                          <div class="sbcontent">
+                        <p>I'm a proven software developer, with an artistic eye - inspired by well designed systems that satsify the needs of all stakeholders.</p>
+                
+                        <p>I have a genuine passion for app development, and love to learn and share.</p>
+                         </div>
+            </div>
+            
+                
+                
+                
+                <div class="sbpanel radius">
+                    <h5 class="sbtitle"><i class="fa fa-bookmark" style="padding-right:10px;"></i>Development Log</h5>
+                    <div class="row">
+                        <div class="large-12 small-12 columns">
+                            <!-- div class="sbBlogTitle">Mobile app development log</div -->
+                            <div class="sbcontent">
+                            <div id="posts" class="wrapper-inner"></div>
+                            <div class="show-for-small" style="text-align: center">
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="large-4 columns hide-for-small">
+                
+                <div class="sbpanel radius">
+                    <h5 class="sbtitle"><i class="fa fa-link" style="padding-right:10px;"></i>Links</h5>
+                    <div class="sbcontent">
+                <ul class="side-nav" style="padding-top:0;">
+                    <li><a class="fa fa-globe" style="padding-right:10px;" href="https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dFhBQ19rOUFHWlpUbmR4TUdJUjJXTUE&single=true&gid=0&output=html"><span style="padding-left:10px">ShelterBox International</span></a></li>
+                  <li><a class="fa fa-table" style="padding-right:10px;" href="https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dFhBQ19rOUFHWlpUbmR4TUdJUjJXTUE&single=true&gid=0&output=html"><span style="padding-left:10px">ShelterBox Response Data</span></a></li>
+                  <li><a class="fa fa-hdd-o" style="padding-right:10px;" href="https://hub.jazz.net/project/antonm/sbclient/overview"><span style="padding-left:10px">Mobile Phone Code</span></a></li>
+                  <li> <a  class="fa fa-hdd-o" style="padding-right:10px;" href="https://hub.jazz.net/project/antonm/sbclient/overview"><span style="padding-left:10px">Node Server Code</span></a></li>
+                  
+                </ul>
+                        </div>
+                </div>
+                
+              
+          
+                
+                <div class="panel radius">
+                    <div class="row">
+                       
+                    </div>    
+                </div>
+            
+            </div> 
+        </div>
+    </div>
+</div> 
+    
+<footer class="row">
+<div class="large-12 columns">
+<hr>
+<div class="row">
+<div class="large-6 columns">
+<p>© Copyright Anton McConville 2011-2014</p>
+</div>
+<div class="large-6 columns">
+<ul class="inline-list right">
+<li>
+<a href="#">Link 1</a>
+</li>
+<li>
+<a href="#">Link 2</a>
+</li>
+<li>
+<a href="#">Link 3</a>
+</li>
+<li>
+<a href="#">Link 4</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+  document.write('<script src=js/vendor/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script>
+<script src="../foundation-5.4.5/js/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script>
+      $(document).foundation();
+
+      var doc = document.documentElement;
+      doc.setAttribute('data-useragent', navigator.userAgent);
+</script>
+    <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
+    
+  
+  
+  
+  
+  
+  
+  
 </body>
 </html>
