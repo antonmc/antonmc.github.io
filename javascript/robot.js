@@ -30,6 +30,6 @@ function showInfo(data) {
 }
 
 window.onload = function() {
-    var spreadsheet = 'https://docs.google.com/spreadsheet/pub?key=0AhLgoEUzhCg_dDR2MHJWbkZuTEp1WFk2cnZsUk9fVUE&output=html';
+    var spreadsheet = 'https://docs.google.com/spreadsheets/d/1xEyH6pPquUHx7hIC-3s80lwKQIGnoDuAfzbZL-Rl9sk/pubhtml';
     Tabletop.init({ key: spreadsheet, callback: showInfo });
 };
