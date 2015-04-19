@@ -133,7 +133,7 @@ function readGoogleData(){
 
 window.onload = function() {  
     
-    var live = false;
+    var live = true;
     
     if( live === true ){
         readLocalData();
