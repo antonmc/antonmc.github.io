@@ -138,7 +138,7 @@ section {
 }
 
 .aboutIcon:hover {
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .workIcon {
@@ -160,7 +160,7 @@ section {
 }
 
 .workIcon:hover {
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .blogIcon {
@@ -182,7 +182,7 @@ section {
 }
 
 .blogIcon:hover {
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .sbIcon {
@@ -204,7 +204,7 @@ section {
 }
 
 .sbIcon:hover {
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .robotIcon {
@@ -226,14 +226,14 @@ section {
 }
 
 .robotIcon:hover {
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .amIcon {
     font-size: 72px;
     line-height: normal;
     vertical-align: middle;
-    color: #2b88ab;
+    color: ##999999;
     font-family: 'Hickory Website Font';
     padding: 0;
     background: none;
@@ -422,7 +422,7 @@ ul {
     text-align: center;
     font-weight: 700;
     font-style: normal;
-    color: #2b88ab;
+    color: ##999999;
 }
 
 #projectThumbs .project .project-item-count {
@@ -493,7 +493,7 @@ ul {
     text-transform: uppercase;
     color: #8899a2;
     font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
-    color: #2b88ab;
+    color: ##999999;
     font-size: 18px;
 }
 
@@ -512,7 +512,7 @@ ul {
     line-height: 1.4;
     color: #8899a2;
     font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
-    color: #2b88ab;
+    color: ##999999;
 }
 
 #aside p {
@@ -522,7 +522,7 @@ ul {
     line-height: 1.4;
     color: #8899a2;
     font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
-    color: #2b88ab;
+    color: ##999999;
 }
 
 .sketch-line {
@@ -535,7 +535,7 @@ ul {
 .social {
     font-size: 32px;
     padding: 10px;
-    color: #2b88ab;
+    color: ##999999;
     text-decoration: none;
 }
 
@@ -544,7 +544,7 @@ ul {
     padding: 10;
     width: 32px;
     height: 32px;
-    background: #2b88ab;
+    background: ##999999;
     color: white;
 }
 
