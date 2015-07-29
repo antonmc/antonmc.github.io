@@ -75,12 +75,12 @@ section {
 }
 
 .borderedPic {
-    background: white;
+    background: #FFF;
     padding: 10px;
     /* box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); */
     
-    border-radius: 5px;
-    border: #E2E2E2 solid 1px;
+    border-radius: 4px;
+    border: #EFEFEF solid 1px;
 }
 
 .main-nav {
@@ -587,7 +587,7 @@ ul {
 }
 
 .detailstitle {
-    color: #D15600;
+    color: #F66401;
 }
 /* - - - shelterbox - - - */
 
