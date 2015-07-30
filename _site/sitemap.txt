@@ -1,0 +1,11 @@
+
+http://antonmc.github.io/archive.html
+http://antonmc.github.io/atom.xml
+http://antonmc.github.io/categories.html
+http://antonmc.github.io/index.html
+http://antonmc.github.io/pages.html
+http://antonmc.github.io/rss.xml
+http://antonmc.github.io/sitemap.txt
+http://antonmc.github.io/tags.html
+
+http://antonmc.github.io/lessons/2011/12/29/jekyll-introduction

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cultura Espanola - Online Catalog</title>
+		<link href="../../css/bootstrap.css" rel="stylesheet">
+		<link rel="stylesheet" href="./cultura.css">
+		<script	src="../../src/tabletop.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+		<script src="../../src/bootstrap.js"></script>
+		<script src="cultura.js"></script>
+		<script src="../../src/paypal-button.js"></script>
+		
+	</head>
+	<body>
+		<section class="storefront" id ="storefront">
+		<div class="banner">
+			<div class="culturaLogo"></div>
+			<!-- div class="instituto"></div -->
+			<div class="title">Online Course Information and Registration</div>
+		</div>
+		
+		<div class="tellMeMore">
+			Cultura Espanola is a proud supplier of 'Tell Me More' online language training - an effective, fun, interactive and personalized way to learn Spanish. It takes a communicative approach, built around three courses. 
+		</div>
+		</section>
+		
+		
+ 
+		<!-- Modal -->
+		<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		  <div id="modalHeader" class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+		    <h3 id="myModalLabel">Modal header</h3>
+		  </div>
+		  <div id="modalBody" class="modal-body">
+		    <p>info</p>
+		  </div>
+		  <div class="modal-footer">
+		    <button class="btn" data-dismiss="modal" aria-hidden="true">I do not accept</button>
+		    <script src="https://www.paypalobjects.com/js/external/paypal-button.min.js?merchant=DBHRXHE6PL6RG" 
+			    data-button="buynow" 
+			    data-name="Language Course" 
+			    data-quantity="1" 
+			    data-amount="175" 
+			    data-currency="CAD" 
+			    data-shipping="0" 
+			    data-tax="0" 
+			    data-callback="http://www.culturaespanola.ca/store/confirm.html" 
+			></script>
+		  </div>
+</div>
+	</body>
+</html>
