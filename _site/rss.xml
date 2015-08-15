@@ -5,10 +5,55 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://antonmc.github.io</link>
         <atom:link href="http://antonmc.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 29 Jul 2015 21:27:39 -0400</lastBuildDate>
-        <pubDate>Wed, 29 Jul 2015 21:27:39 -0400</pubDate>
+        <lastBuildDate>Wed, 29 Jul 2015 23:44:01 -0400</lastBuildDate>
+        <pubDate>Wed, 29 Jul 2015 23:44:01 -0400</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Testing My Software</title>
+                <description>
+&lt;h2 id=&quot;an-h2-header&quot;&gt;An h2 header&lt;/h2&gt;
+
+&lt;p&gt;Here’s a numbered list:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;first item&lt;/li&gt;
+  &lt;li&gt;second item&lt;/li&gt;
+  &lt;li&gt;third item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here’s a code sample:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Let me re-iterate ...
+for i in 1 .. 10 { do-something(i) }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As you probably guessed, indented 4 spaces. By the way, instead of
+indenting the block, you can use delimited blocks, if you like:ng in another half marathon, this time in County Kerry. I haven’t been so far south in Ireland.&lt;/p&gt;
+</description>
+                <link>http://antonmc.github.io/lessons/2015/07/29/testing-my-software</link>
+                <guid>http://antonmc.github.io/lessons/2015/07/29/testing-my-software</guid>
+                <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Testing</title>
+                <description>
+&lt;p&gt;this is a test post&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;testing&lt;/li&gt;
+  &lt;li&gt;testing&lt;/li&gt;
+  &lt;li&gt;testing&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+                <link>http://antonmc.github.io/lessons/2015/07/29/testing</link>
+                <guid>http://antonmc.github.io/lessons/2015/07/29/testing</guid>
+                <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>

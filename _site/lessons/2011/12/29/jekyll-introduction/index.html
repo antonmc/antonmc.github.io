@@ -1,145 +1,71 @@
+ <html>
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+    <link rel="stylesheet" href="http://hickory.ca/font/font.css">
+    <link rel="stylesheet" type="text/css" href="http://hickory.ca/style/hickory.css">
+    <link rel="stylesheet" type="text/css" href="http://hickory.ca/style/blog.css">
+    <link href='http://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <title>hickory.ca - Anton McConville</title>
+    <script src="http://hickory.ca/javascript/moment.js"></script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-2417759-1']);
+        _gaq.push(['_trackPageview']);
 
-    <title>Jekyll Introduction</title>
-    
-    <meta name="author" content="Name Lastname">
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-    
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images
-      <link rel="shortcut icon" href="images/favicon.ico">
-      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-    -->
-
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-
-  </head>
-
-  <body>
-    <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">Jekyll Bootstrap</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-      	
-      	<li><a href="/archive.html">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories.html">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/pages.html">Pages</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags.html">Tags</a></li>
-      	
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
+<body class="body">
+    <div class="infoArea">
+        <div id="logo" class="box-wrap-inner" data-content-field="site-title">
+            <div class="logo">
+                <!-- a href="/"><img src="logo.png" alt="Anton McConville"></a -->
             </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
-      </nav>
+        </div>
+        <div class="box-wrap-inner title">Anton McConville</div>
+        <div class="box-wrap-inner subtitle">Digital Designer and Developer</div>
+        <div class="box-wrap-inner" id="topNav">
 
-      <div class="container">
-        
-<div class="page-header">
-  <h1>Jekyll Introduction <small>Supporting tagline</small></h1>
-</div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>29 December 2011</span>
+            <nav class="main-nav">
+                <ul>
+                    <li>
+                        <a class="workIcon" href="http://www.hickory.ca/pages/index.html"></a>
+                    </li>
+                    <!--
+				<li>
+					<a class="aboutIcon" href="./about.html"></a>
+				</li>
+-->
+                    <li>
+                        <a class="blogIcon selected active-link" href="blog.html"></a>
+                    </li>
+                    <li>
+                        <a class="sbIcon" href="http://www.hickory.ca/pages/shelterbox.html"></a>
+                    </li>
+                    <li>
+                        <a class="robotIcon" href="http://www.hickory.ca/pages/robots.html"></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
     </div>
-    <div class="content">
-      
+    <div id="canvas">
+        <div class="wrapper-inner description" style="font-family:sans-serif">
+            <section class="wrapper-side-cover wrapper " tabindex="-1">
+                <div id="posts" class="wrapper-inner">
+                    <div class="post"><span><!-- span class="entry">4</span --><h3 class="blogtitle">Jekyll Introduction</h3></span>
+                        <p class="metadata">Posted by Anton McConville on 29 December 2011</p>
+                        <div class="post-content">
+                            
 <p>This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly <em>how</em> Jekyll does what it does.</p>
 
@@ -555,111 +481,12 @@ As noted, our main programming constraint is the fact that our API is limited to
 <p>Please take a look at []()
 or jump right into <a href="">Usage</a> if you’d like.</p>
 
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </div>
+</body>
 
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/categories.html#lessons-ref">
-    		lessons <span>1</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#intro-ref">intro <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#beginner-ref">beginner <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#jekyll-ref">jekyll <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#tutorial-ref">tutorial <span>1</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev disabled"><a>&larr; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next disabled"><a>Next &rarr;</a>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'jekyllbootstrap'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
-  </div>
-</div>
-
-
-      </div>
-
-    </div>
-
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2015 Name Lastname
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-
-    
-
-
-
-
-
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-  </body>
 </html>
-
