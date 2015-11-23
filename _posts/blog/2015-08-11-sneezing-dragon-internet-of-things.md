@@ -1,3 +1,11 @@
+---
+layout: post
+category : iot
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
+
 Latley, I've been peeling back some layers on 'the internet of things', keen to understand more about how IoT systems are created.
 
 A colleague of mine shared a git repo, and some great tutorial information for connecting TI sensortags with Bluemix. It's a really good introduction - so that's where I started too.
