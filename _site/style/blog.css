@@ -173,6 +173,18 @@
     border: 1px solid #EFEFEF;
 }
 
+.jkpost {
+    margin-bottom: 30px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    background-color: #FFF;
+    padding: 40px;
+    /* border: 1px solid #EFEFEF; */    
+    box-shadow: 0 0 0 0, 0 6px 12px rgba(34, 34, 34, 0.1);
+}
+
 .background {
     /*	padding-top:20px;
 	margin-left: auto;

@@ -8,6 +8,8 @@ http://antonmc.github.io/rss.xml
 http://antonmc.github.io/sitemap.txt
 http://antonmc.github.io/tags.html
 
+http://antonmc.github.io/2015/08/11/sneezing-dragon-internet-of-things
+http://antonmc.github.io/2015/08/03/agile-twelve-factor
 http://antonmc.github.io/lessons/2015/07/29/testing-my-software
 http://antonmc.github.io/lessons/2015/07/29/testing
 http://antonmc.github.io/lessons/2011/12/29/jekyll-introduction
