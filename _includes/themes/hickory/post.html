@@ -1,13 +1,9 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="http://hickory.ca/font/font.css">
-    <link rel="stylesheet" type="text/css" href="http://hickory.ca/style/hickory.css">
-    <link rel="stylesheet" type="text/css" href="http://hickory.ca/style/blog.css">
-    <link href='http://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-    <title>hickory.ca - Anton McConville</title>
-    <script src="http://hickory.ca/javascript/moment.js"></script>
+    <title>Anton McConville - Digital Designer and Developer</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ BASE_PATH }}/style/main.css">
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-2417759-1']);
@@ -24,54 +20,35 @@
     </script>
 </head>
 
-<body class="body">
-    <div class="infoArea">
-        <div id="logo" class="box-wrap-inner" data-content-field="site-title">
-            <div class="logo">
-                <!-- a href="/"><img src="logo.png" alt="Anton McConville"></a -->
+<body class="hickory">
+    <div class="top">
+
+        <div class="bar">
+            <a href="{{ BASE_PATH }}/index.html">
+                <div class="title">
+                    <div class="name">Anton McConville</div>
+                    <div class="description">Digital Designer and Developer</div>
+
+                </div>
+            </a>
+            <div class="navigation">
+                <a class="deselected" href="{{ BASE_PATH }}/index.html">projects</a>
+                <a class="selected" href="{{ BASE_PATH }}/blog.html">posts</a>
+                <a class="deselected end" href="{{ BASE_PATH }}/about.html">about</a>
             </div>
         </div>
-        <div class="box-wrap-inner title">Anton McConville</div>
-        <div class="box-wrap-inner subtitle">Digital Designer and Developer</div>
-        <div class="box-wrap-inner" id="topNav">
+    </div>
+    <div class="site">
 
-            <nav class="main-nav">
-                <ul>
-                    <li>
-                        <a class="workIcon" href="http://www.hickory.ca/pages/index.html"></a>
-                    </li>
-                    <!--
-				<li>
-					<a class="aboutIcon" href="./about.html"></a>
-				</li>
--->
-                    <li>
-                        <a class="blogIcon selected active-link" href="blog.html"></a>
-                    </li>
-                    <li>
-                        <a class="sbIcon" href="http://www.hickory.ca/pages/shelterbox.html"></a>
-                    </li>
-                    <li>
-                        <a class="robotIcon" href="http://www.hickory.ca/pages/robots.html"></a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
+        <section class="wrapper" tabindex="-1">
+            <span><h3 class="blogtitle">{{page.title}}</h3></span>
+            <p class="metadata">Posted on {{ page.date | date_to_long_string }}</p>
+            <div class="post-content">
+                {{ content }}
+            </div>
+        </section>
     </div>
-    <div id="canvas">
-        <div class="wrapper-inner description" style="font-family:sans-serif">
-            <section class="wrapper-side-cover wrapper " tabindex="-1">
-                <div id="posts" class="wrapper-inner">
-                    <div class="post"><span><!-- span class="entry">4</span --><h3 class="blogtitle">{{page.title}}</h3></span>
-                        <p class="metadata">Posted by Anton McConville on {{ page.date | date_to_long_string }}</p>
-                        <div class="post-content">
-                            {{ content }}
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </div>
+
 </body>
 
 </html>

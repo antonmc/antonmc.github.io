@@ -1,74 +1,81 @@
-<!DOCTYPE html>
 <html>
 
 <head>
-    <link rel="stylesheet" href="font/font.css">
-    <link rel="stylesheet" type="text/css" href="style/hickory.css">
-    <link href='http://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-    <title>Anton McConville - Digital Designer and Developer - web and iOS - Ottawa Canada</title>
-    <meta></meta>
-    <script src="javascript/tabletop.js"></script>
-    <script src="javascript/hickory.js"></script>
-
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2417759-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
+    <title>Anton McConville - Digital Designer and Developer</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 
-<body class="body">
-    <div class="infoArea">
-        <div id="logo" class="box-wrap-inner">
-            <div class="logo"></div>
-        </div>
-        <div class="box-wrap-inner title">Anton McConville</div>
-        <div class="box-wrap-inner subtitle">Digital Designer and Developer</div>
-        <div class="box-wrap-inner" id="topNav">
+<body class="hickory">
+    <div class="top">
+        <div class="bar">
+            <a href="http://www.hickory.ca">
+                <div class="title">
+                    <div class="name">Anton McConville</div>
+                    <div class="description">Digital Designer and Developer</div>
 
-            <nav class="main-nav">
-                <ul>
-                    <li class="workIcon selected">
-                        <a href="index.html"></a>
-                    </li>
-                    <!--
-					<li class="page-collection">
-						<a class="aboutIcon" href="pages/about.html"></a>
-					</li>
--->
-                    <li class="">
-                        <a class="blogIcon" href="pages/blog.html"></a>
-                    </li>
-                    <li class="">
-                        <a class="sbIcon" href="pages/shelterbox.html"></a>
-                    </li>
-                    <li>
-                        <a class="robotIcon" href="pages/robots.html"></a>
-                    </li>
-                </ul>
-            </nav>
+                </div>
+            </a>
+            <div class="navigation">
+                <a class="selected" href="index.html">projects</a>
+                <a class="deselected" href="blog.html">posts</a>
+                <a class="deselected end" href="about.html">about</a>
+            </div>
         </div>
     </div>
-    <div id="canvas">
-        <!-- div class="box-wrap-inner subtitle" style="font-size:12px;">Data inspired projects, and experiments - click on the tiles</div -->
+    <div class="site">
 
-        <div id="projectThumbs" style="height:1100px;">
-            <div class="wrapper" id="wrapper"></div>
-        </div>
+        <ul class="container">
+            <li class="tile">
+                <a href="./pages/detail.html?project=ProfileWords"><img class="project-icon" src="./project-icons/dark/profiles.png">
+                </a>
+            </li>
+            <li class="tile">
+                <a href="./pages/detail.html?project=Relay"><img class="project-icon" src="./project-icons/dark/relay.png">
+                </a>
+            </li>
+            <a href="./orion/orion.html">
+                <li class="tile"><img class="project-icon" src="./project-icons/dark/icons.png">
+            </a>
+            </li>
+            <li class="tile">
+                <a href="./pages/detail.html?project=Robot"><img class="project-icon" src="./project-icons/dark/robot.png">
+                </a>
+            </li>
+            <li class="tile">
+                <a href="./pages/detail.html?project=ShelterBox"><img class="project-icon" src="./project-icons/dark/volcano.png">
+                </a>
+            </li>
+
+            <li class="tile">
+                <a href="./pages/detail.html?project=Cardinals"><img class="project-icon" src="./project-icons/dark/cardinals.png">
+                </a>
+            </li>
+
+            <li class="tile">
+                <a href="./pages/detail.html?project=Campaigner"><img class="project-icon" src="./project-icons/dark/amnesty.png">
+                </a>
+            </li>
+            <li class="tile">
+                <a href="./pages/detail.html?project=Vote"><img class="project-icon" src="./project-icons/dark/vote.png">
+                </a>
+            </li>
+            <li class="tile">
+                <a href="./pages/detail.html?project=HeartFelt"><img class="project-icon" src="./project-icons/dark/heart.png">
+                </a>
+            </li>
+
+        </ul>
     </div>
+    <div class="footer">
+        <div class="footer-container">
+            <div class="copyright">Copyright - A.McConville - 2015</div>
+            <div class="footer-github"><a href="https://github.com/antonmc"><i class="fa fa-github-alt"></i></a>
+            </div>
+        </div>
 
-
-
+    </div>
 </body>
 
 </html>
