@@ -1,3 +1,9 @@
+---
+layout: post
+category : blog
+tags : [blog]
+---
+
 [Creative mornings](https://creativemornings.com/) is a global initiative to inspire a monthly meetup of people interested in creative approaches to problem solving and life. 
 
 They're free, happen early one Friday morning, so they don't interfere too much with work, and they usually offer coffee and pastries.
