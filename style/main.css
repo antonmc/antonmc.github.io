@@ -595,15 +595,15 @@ border-radius: 2px;
     /* STYLES GO HERE */
     
     .site {
-        max-width: 560px;
+        max-width: 600px;
     }
     .tile {
-        height: 200px;
-        min-height: 200px;
-        min-width: 200px;
-        max-height: 200px;
-        max-width: 200px;
-        width: 200px;
+        height: 210px;
+        min-height: 210px;
+        min-width: 210px;
+        max-height: 210px;
+        max-width: 210px;
+        width: 210px;
         margin: 40px;
     }
     .project-icon {
@@ -620,33 +620,71 @@ border-radius: 2px;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        max-width: 342px;
+        max-width: 400px;
         justify-content: center;
-        width: 342px;
+        width: 400px;
+        height: 180px;
     }
     .top {
-        height: 200px;
+        height: 300px;
     }
     .title {
         display: flex;
         /* flex: 2 0 0; */
         
+        color: white;
         flex-direction: column;
         justify-content: center;
         align-self: center;
         padding-bottom: 20px;
         align-items: center;
-        padding-bottom: 70px;
+        padding-bottom: 30px;
     }
     .name {
-        color: #e95b28;
-        font-size: 40px;
+        color: #fff;
+        font-size: 42px;
     }
     .description {
-        font-size: 20px;
-        color: #33B1CB;
+        font-size: 26px;
+        color: #fff;
     }
     .navigation {
         font-size: 24px;
+    }
+    .footer {
+        position: fixed;
+        display: flex;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100px;
+        margin: 0;
+        background: #f5f5f5;
+        align-content: center;
+    }
+    .footer-container {
+        text-decoration: none;
+        flex-flow: row wrap;
+        flex-wrap: wrap;
+        display: flex;
+        padding: 0;
+        width: 606px;
+        margin: 0 auto -30px;
+        max-width: 606px;
+        font-size: 20px;
+        color: #4d4d4d;
+        height: 100px;
+        align-content: center;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .footer-github {
+        display: flex;
+        flex: 1 0 0;
+        flex-direction: row;
+        justify-content: flex-end;
+        font-size: 24px;
+        color: #4d4d4d;
     }
 }
