@@ -38,6 +38,8 @@ Here's a sample "posts list".
 
 <ul class="posts">
   
+    <li><span>27 Nov 2015</span> &raquo; <a href="/anton/2015/11/27/blogging-again">Blogging Again</a></li>
+  
 </ul>
 
 ## To-Do
