@@ -4,13 +4,12 @@ category : anton
 tagline: "Supporting tagline"
 tags : [blog]
 ---
-{% include JB/setup %}
 
-After my WordPress blog was hacked a few years ago ( for the second time ) I kind of stopped blogging. It was a little upsetting to lose the blog posts that I'd written, but moreso it was frustrating to figure out a new platform to use for blogging, securely.
+After my WordPress blog was hacked a few years ago ( for the second time ) I kind of stopped blogging. It was a little upsetting to lose the blog posts that I'd written, but moreso it was frustrating to figure out a new platform to use for blogging, securely.  
 
-What I really wanted was one that didn't rely on php for one thing, ideally that didn't need a server. What I wanted most of all was a way to write in markdown, and have my blogs streamed to me via jsonp, so I could consume and style them with standard HTML, JS and CSS.
+What I really wanted was one that didn't rely on php for one thing, ideally that didn't need a server. What I wanted most of all was a way to write in markdown, and have my blogs streamed to me via jsonp, so I could consume and style them with standard HTML, JS and CSS.  
 
-I think [Wordpress Calyspo](https://developer.wordpress.com/calypso/) may be a step in that direction.
+I think [Wordpress Calyspo](https://developer.wordpress.com/calypso/) may be a step in that direction.  
 
 I tried making a system myself using Google Spreadsheets as a data source, but it is tricky to put it all together, with xml feeds, archives, tagging and so on. So my blogging mostly ground to a halt, but for [Medium](https://medium.com/@antonmc) and our [work blog](https://developer.ibm.com/bluemix/author/antonm-2/).
 
