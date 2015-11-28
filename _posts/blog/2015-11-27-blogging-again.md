@@ -16,3 +16,4 @@ I tried making a system myself using Google Spreadsheets as a data source, but i
 I moved my site to GitHub pages a couple of years ago, and haven't really looked back. It's a wonderful way to build your site, by commmiting to Git. Naturally I thought I'd try [Jekyll](http://jekyllrb.com/docs/drafts/) since that's the blog designed for GitHub pages. It seemed still a little too much to learn just to blog, and style a site at first. It still bothers me that Blogging is so complicated. In any case, I tinkered away enough to get things sort of going with a blog again.
 
 There are posts that I want to write, that don't fit on Medium or on my work blog. And there are a few ongoing projects that I want to try blogging about. So, let's see how things turn out with this fresh attempt at blogging!
+

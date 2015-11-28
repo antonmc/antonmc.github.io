@@ -627,7 +627,7 @@ border-radius: 2px;
         max-width: 400px;
         justify-content: center;
         width: 400px;
-        height: 180px;
+        height: 200px;
     }
     .top {
         height: 300px;
@@ -646,7 +646,7 @@ border-radius: 2px;
     }
     .name {
         color: #fff;
-        font-size: 42px;
+        font-size: 48px;
     }
     .description {
         font-size: 26px;
