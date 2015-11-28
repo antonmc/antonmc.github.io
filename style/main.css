@@ -450,6 +450,10 @@ border-radius: 2px;
     height: 500px;
 }
 
+.fa {
+    color: #4b4b4b;
+}
+
 .projectTitle {
     font-weight: bold;
     border-bottom: 1px solid #d0d2d3;
