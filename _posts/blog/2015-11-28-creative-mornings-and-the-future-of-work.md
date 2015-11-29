@@ -12,6 +12,12 @@ This month's meetup in Ottawa was about the 'Future of Work(space)' presented by
 
 Vinod's vision of the future of work was inspired by Star Trek ... looking at Star Trek as the model of a future workforce and mission. I really liked his list of future work qualities and wanted to remember them, to revisit them ... so here are my notes ...
 
+![Creative Mornings Ottawa, November 2015](http://www.hickory.ca/images/creative.png "Creative Mornings Sketchnote")
+
+
+
+
+
 __The future of work is about connections__
 
 The mission of the enterprise was seek out new worlds, to connect.
@@ -49,7 +55,6 @@ Finally, Vinod quoted a line from Interstellar:
 
 We all had to fill in a name badge, where we wrote down 'who's the boss' ... in my case, I wrote the environment - which connected a little literally with that quote, but there's a lot of power in the metaphor.
 
-![Creative Mornings Ottawa, November 2015](http://www.hickory.ca/images/creative.png "Creative Mornings Sketchnote")
 
 
 

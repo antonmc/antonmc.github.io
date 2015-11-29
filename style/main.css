@@ -25,6 +25,18 @@ p {
     margin: 0;
 }
 
+strong {
+    font-weight: bolder;
+    color: black;
+    font-size: 14px;
+    font-style: italic;
+}
+
+p img {
+    width: 600px;
+    padding-bottom: 20px;
+}
+
 .post-content p {
     margin-bottom: 20px;
 }
