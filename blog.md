@@ -17,7 +17,7 @@ layout: page
          <a href="{{ BASE_PATH }}/index.html">
             <div class="title">
                 <div class="name">Anton McConville</div>
-                <div class="description">Digital Designer and Developer</div>
+<!--                <div class="description">Digital Designer and Developer</div>-->
             </div>
             </a>
             <div class="navigation">
