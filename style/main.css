@@ -283,7 +283,7 @@ li:nth-of-type(3) {
     /*    border-bottom: 1px dashed #ccc;*/
     
     margin-bottom: 30px;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 a.deselected:link {
@@ -313,7 +313,7 @@ a.selected:link {
     padding-bottom: 30px;
     list-style: none;
     color: #444;
-    font-size: 14px;
+    font-size: 16px;
     display: flex;
     flex-direction: row;
 }
