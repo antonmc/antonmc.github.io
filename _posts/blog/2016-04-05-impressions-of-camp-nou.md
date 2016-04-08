@@ -12,15 +12,15 @@ A few weeks ago, in what now feels like a dream, I spent 10 days in Catalonia. A
 
 I've been to a few football stadiums in my time, mostly in the UK. A few things surprised me about Camp Nou when I watched some games there a few weeks ago:
 
-1] There are no replays! I'm pretty sure that the soccer games I've seen in the UK show replays when a player  scores. Or maybe I've lived in N. America too long, where instant replays seem the norm. There is so much magic on the Camp Nou field with this team, that it feels like you miss something in every blink.
+1] **There are no replays!** I'm pretty sure that the soccer games I've seen in the UK show replays when a player  scores. Or maybe I've lived in N. America too long, where instant replays seem the norm. There is so much magic on the Camp Nou field with this team, that it feels like you miss something in every blink.
 
-2] For one of the biggest stadiums in Europe it is incredibly efficient to get into and out of your seat. Lots of doors, lots of thought!
+2] For one of the biggest stadiums in Europe it is **incredibly efficient to get into and out of** your seat. Lots of doors, lots of thought!
 
-3] For one of the biggest stadiums in Europe, it doesn't half feel welcoming to visitors like me ( perhaps not to opponents ). There's definitely a culture that you feel when you sit there.
+3] For one of the biggest stadiums in Europe, it **doesn't half feel welcoming to visitors** like me ( perhaps not to opponents ). There's definitely a culture that you feel when you sit there.
 
-4] It is terrible in a storm :( At least in the seats we sat in, right at the top of the stadium, on a rainy Wednesday night. We were soaked.
+4] It is **terrible in a storm** :( At least in the seats we sat in, right at the top of the stadium, on a rainy Wednesday night. We were soaked.
 
-5] Messi's cross field balls to Neymar are stunning to witness in real life. I thought they were pretty amazing on TV ... you can hear the crowd gasp everytime he conjures up a long distance, diagnal ball to Neymar's toes.
+5] Messi's cross field balls to Neymar are **stunning to witness in real life**. I thought they were pretty amazing on TV ... you can hear the crowd gasp everytime he conjures up a long distance, diagonal ball to Neymar's toes.
 
-6] Doesn't matter how many they score, the crowd want more. I would have thought the crowd would be used to big scorelines and mesmerising football by now, but even at 6:0 up against Getafe, the crowd were ready for more goals
+6] Doesn't matter how many they score, **the crowd always wants more**. I would have thought the crowd would be used to big scorelines and mesmerising football by now, but even at 6:0 up against Getafe, the crowd were ready for more goals
 
