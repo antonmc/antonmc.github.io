@@ -21,8 +21,8 @@ She told me that in her spare time she builds models, and that she sees a simila
 
 When she told me that, I knew that she cared immensely about the job she was doing, and that I could relax. 
 
-She scraped off some minute edges, and polished the results. Sure enough, the bumps are gone, and my teeth feel wonderfully smooth. 
+She scraped off some small remaining edges, and polished the results. Sure enough, the bumps are gone, and my teeth feel wonderfully smooth. 
 
-It's funny that we might not immediatley see work likt that as a passion - in grinding down artificial bumps on teeth ... but it was very clear that she had passion in her work - constantly learning, caring, practicing, considering. 
+It's funny that we might not immediatley view work like that as a passion - in grinding down artificial bumps on teeth ... but it was very clear that she had passion in her work - constantly learning, caring, practicing, considering. 
 
 
