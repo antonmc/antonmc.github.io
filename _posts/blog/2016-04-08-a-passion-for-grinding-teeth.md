@@ -19,7 +19,7 @@ I joked with the technician that it sounded like fun. She told me that she liked
 
 She told me that in her spare time she builds models, and that she sees a similar skill to removing the bumps in a cosmetically accurate way, which **felt a little like sculpting ... like art**.
 
-When she told me that I knew that she cared immensely about the job she was doing, and that I could relax. 
+When she told me that, I knew that she cared immensely about the job she was doing, and that I could relax. 
 
 She scraped off some minute edges, and polished the results. Sure enough, the bumps are gone, and my teeth feel wonderfully smooth. 
 
