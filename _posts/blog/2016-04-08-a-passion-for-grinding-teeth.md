@@ -9,7 +9,7 @@ This is a little story about observing passion in my dental care ...
 
 Disclosure - I've been having my teeth aligned for almost a year now with Invisalign. I'm no teenager, and a little embarrassed to do this so late in the day, but in my defense, dental care on the National Health in N.Ireland was pretty minimal, and uninviting when I was growing up ... consequently wonky teeth later in life.
 
-Admittedly, itt wasn't clear to me quite how wonky they were until the little Invisalign trays started doing their thing. I have to take them out pretty frequently when traveling or speaking at a conference - they do affect your speech for one thing.
+Admittedly, it wasn't apparent to me quite how wonky they were until the little Invisalign trays started doing their thing. I have to take them out pretty frequently when traveling or speaking at a conference - they do affect your speech for one thing.
 
 As part of the exercise, the dental team glues little bumps on your teeth to help pivot your teeth while they're in the trays. This glue they use seems incredible to me. And also potentially hazardous, because the little bumps they glued on my teeth stayed on there for months, like weird bone outcrops.
 
