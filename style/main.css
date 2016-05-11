@@ -255,7 +255,8 @@ p img {
     max-width: 160px;
     width: 160px;
     text-decoration: none;
-    /*    background-color: #fefefe;*/
+    background-color: #ffffff;
+    border: #edeeee solid 1px;
     border-radius: 3px;
     /*    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);*/
     /*    border: 1px solid rgb(231, 231, 231);*/
