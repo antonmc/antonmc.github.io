@@ -60,9 +60,9 @@ p img {
     display: -ms-flexbox;
     display: flex;
     flex-direction: row;
-    max-width: 690px;
+    max-width: 740px;
     justify-content: center;
-    width: 690px;
+    width: 740px;
 }
 
 .banner {
@@ -114,7 +114,7 @@ p img {
     padding: 0;
     position: relative;
     margin: 0 auto -30px;
-    max-width: 730px;
+    max-width: 788px;
 }
 
 .top {
@@ -231,8 +231,8 @@ p img {
 }
 
 .project-icon {
-    height: 200px;
-    width: 200px;
+    height: 220px;
+    width: 220px;
 }
 
 .container {
@@ -248,13 +248,13 @@ p img {
 .tile {
     flex: auto;
     list-style: none;
-    height: 200px;
+    height: 220px;
     margin: 20px;
-    min-height: 200px;
-    min-width: 200px;
-    max-height: 200px;
-    max-width: 200px;
-    width: 200px;
+    min-height: 220px;
+    min-width: 220px;
+    max-height: 220px;
+    max-width: 220px;
+    width: 220px;
     text-decoration: none;
     background-color: #ffffff;
     border: #edeeee solid 1px;
@@ -338,7 +338,7 @@ border-radius: 2px;
 */
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 200px;
+    height: 220px;
     font-size: 14px;
     color: rgb(43, 63, 86);
 }
@@ -349,7 +349,7 @@ border-radius: 2px;
     border-radius: 2px;
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 200px;
+    height: 220px;
     font-size: 12px;
     color: #555;
 }
@@ -491,7 +491,7 @@ border-radius: 2px;
 .projectName {
     padding-left: 15px;
     height: 50px;
-    width: 200px;
+    width: 220px;
     border-right: 1px solid #eeeeee;
     display: flex;
     flex-direction: column;
@@ -530,7 +530,7 @@ border-radius: 2px;
 }
 
 .projectTech {
-    height: 200px;
+    height: 220px;
     border-bottom: 1px solid #eeeeee;
 }
 
@@ -608,7 +608,7 @@ border-radius: 2px;
         width: 342px;
     }
     .top {
-        height: 200px;
+        height: 220px;
     }
     .title {
         display: flex;
@@ -637,8 +637,8 @@ border-radius: 2px;
         margin: 40px;
     }
     .project-icon {
-        height: 200px;
-        width: 200px;
+        height: 220px;
+        width: 220px;
     }
     li:nth-of-type(3) {
         margin-right: 40px;
@@ -653,7 +653,7 @@ border-radius: 2px;
         max-width: 400px;
         justify-content: center;
         width: 400px;
-        height: 200px;
+        height: 220px;
     }
     .top {
         height: 300px;
