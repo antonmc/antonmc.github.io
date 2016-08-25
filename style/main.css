@@ -60,9 +60,9 @@ p img {
     display: -ms-flexbox;
     display: flex;
     flex-direction: row;
-    max-width: 606px;
+    max-width: 690px;
     justify-content: center;
-    width: 606px;
+    width: 690px;
 }
 
 .banner {
@@ -114,7 +114,7 @@ p img {
     padding: 0;
     position: relative;
     margin: 0 auto -30px;
-    max-width: 612px;
+    max-width: 730px;
 }
 
 .top {
@@ -158,7 +158,7 @@ p img {
 }
 
 .name {
-    color: #2B3F56;
+    color: #DD4131;
     font-size: 26px;
     margin-bottom: 2px;
 }
@@ -211,13 +211,13 @@ p img {
 }
 
 .selected {
-    color: #2B3F56;
+    color: #DD4131;
     /* #e95b28; */
 }
 
 .deselected {
     font-weight: normal;
-    color: #2B3F56;
+    color: #DD4131;
     opacity: 0.25;
 }
 
@@ -231,8 +231,8 @@ p img {
 }
 
 .project-icon {
-    height: 160px;
-    width: 160px;
+    height: 200px;
+    width: 200px;
 }
 
 .container {
@@ -242,18 +242,19 @@ p img {
     flex-wrap: wrap;
     display: flex;
     padding: 0;
+    align-items: center;
 }
 
 .tile {
     flex: auto;
     list-style: none;
-    height: 160px;
+    height: 200px;
     margin: 20px;
-    min-height: 160px;
-    min-width: 160px;
-    max-height: 160px;
-    max-width: 160px;
-    width: 160px;
+    min-height: 200px;
+    min-width: 200px;
+    max-height: 200px;
+    max-width: 200px;
+    width: 200px;
     text-decoration: none;
     background-color: #ffffff;
     border: #edeeee solid 1px;
@@ -286,13 +287,13 @@ li:nth-of-type(3) {
 
 a.deselected:link {
     text-decoration: none;
-    color: #2B3F56;
+    color: #DD4131;
     padding-right: 20px;
 }
 
 a.selected:link {
     text-decoration: none;
-    color: #2B3F56;
+    color: #DD4131;
     padding-right: 20px;
 }
 
@@ -337,7 +338,7 @@ border-radius: 2px;
 */
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 160px;
+    height: 200px;
     font-size: 14px;
     color: rgb(43, 63, 86);
 }
@@ -348,7 +349,7 @@ border-radius: 2px;
     border-radius: 2px;
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 160px;
+    height: 200px;
     font-size: 12px;
     color: #555;
 }
@@ -529,7 +530,7 @@ border-radius: 2px;
 }
 
 .projectTech {
-    height: 160px;
+    height: 200px;
     border-bottom: 1px solid #eeeeee;
 }
 
@@ -607,7 +608,7 @@ border-radius: 2px;
         width: 342px;
     }
     .top {
-        height: 160px;
+        height: 200px;
     }
     .title {
         display: flex;
