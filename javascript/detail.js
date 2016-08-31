@@ -74,8 +74,12 @@ function renderSelected(project) {
 
 function showInfo(data) {
     var projects = data.projects.elements;
-
+    console.log(projects);
     projects.forEach(renderSelected);
+
+    projects.forEach(function (project) {
+        console.log(project);
+    });
 }
 
 function readGoogleData() {
@@ -101,6 +105,8 @@ function readLocalData() {
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
             var data = JSON.parse(xmlhttp.responseText);
+
+            console.log(data);
 
             showInfo(data);
         }

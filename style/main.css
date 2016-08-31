@@ -171,6 +171,7 @@ p img {
 .contact {
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
     margin-top: 40px;
 }
 
@@ -595,10 +596,11 @@ border-radius: 2px;
 
 .aboutme {
     margin-top: 40px;
-    width: 500px;
+    width: 400px;
     font-size: 13px;
     line-height: 22px;
     margin-left: 30px;
+    margin-right: 100px;
     color: #015084;
 }
 
@@ -610,6 +612,52 @@ border-radius: 2px;
     flex-direction: column;
     -ms-flex-direction: column;
     width: 100%;
+}
+
+.socialContent {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 500px;
+    align-content: flex-end;
+}
+
+.talkstitle {
+    height: 20px;
+    margin: 10px;
+    margin-bottom: 30px;
+    font-size: 12px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.talks {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    width: 200px;
+    height: 400px;
+    margin-top: 30px;
+    align-content: flex-end;
+}
+
+.talktitle {
+    text-align: right;
+    margin-right: 10px;
+    color: #DD4131;
+}
+
+.talklink {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.talk {
+    display: flex;
+    flex-direction: column;
+    font-size: 11px;
+    width: 200px;
+    height: 100px;
 }
 
 
