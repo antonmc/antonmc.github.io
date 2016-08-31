@@ -481,6 +481,8 @@ border-radius: 2px;
 
 .phone {
     height: 600px;
+    width: 295px;
+    border: none;
 }
 
 .detail {
@@ -488,7 +490,7 @@ border-radius: 2px;
     border-radius: 10px;
     width: 300px;
     margin-left: 50px;
-    color: rgb(43, 63, 86);
+    color: #015084;
     font-size: 12px;
     display: flex;
     flex-direction: column;
