@@ -400,7 +400,6 @@ border-radius: 2px;
     background-color: #fff;
     border-radius: 2px;
     margin-top: 30px;
-    width: 606px;
     padding: 20px;
 }
 
@@ -409,7 +408,7 @@ border-radius: 2px;
 }
 
 .blogtitle {
-    color: #4d4d4d;
+    color: #015084;
     font-size: 18px;
     margin-bottom: 12px;
 }
@@ -427,8 +426,9 @@ border-radius: 2px;
 }
 
 .post-content {
-    color: rgb(43, 63, 86);
-    font-size: 16px;
+    color: #015084;
+    font-size: 14px;
+    letter-spacing: .5;
     line-height: 26px;
 }
 
