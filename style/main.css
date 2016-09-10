@@ -6,7 +6,7 @@
     /*    background: #FFF;*/
     /* #F7F7F3; */
     /*    background: url(grid.jpg);*/
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Karla', 'Open Sans', sans-serif;
     /*    -webkit-font-smoothing: antialiased;*/
 }
 
@@ -50,7 +50,7 @@ p img {
     padding: 0;
     margin: 0;
     background: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Karla', 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -493,11 +493,13 @@ border-radius: 2px;
     width: 300px;
     margin-left: 50px;
     color: #015084;
-    font-size: 12px;
+    font-size: 11px;
     display: flex;
     flex-direction: column;
     height: 600px;
     background: white;
+    letter-spacing: 0.5;
+    line-height: 22px;
 }
 
 .fa {
@@ -626,9 +628,10 @@ border-radius: 2px;
     height: 20px;
     margin: 10px;
     margin-bottom: 30px;
-    font-size: 12px;
+    font-size: 13px;
     text-align: right;
-    font-weight: bold;
+    color: #015084;
+    font-weight: bolder;
 }
 
 .talks {
