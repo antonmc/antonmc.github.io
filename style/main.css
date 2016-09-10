@@ -239,6 +239,7 @@ p img {
 
 .container {
     margin-top: 40px;
+    margin-bottom: 40px;
     text-decoration: none;
     flex-flow: row wrap;
     flex-wrap: wrap;
