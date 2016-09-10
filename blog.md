@@ -30,8 +30,6 @@ layout: page
         </div>
     </div>
     <div class="site">
-
-        <div class="year">2015</div>
         
         <ul class="posts">
               {% for post in site.posts %}
