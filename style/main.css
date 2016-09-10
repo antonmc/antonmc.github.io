@@ -233,8 +233,8 @@ p img {
 }
 
 .project-icon {
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
 }
 
 .container {
@@ -262,13 +262,13 @@ p img {
 .tile {
     flex: auto;
     list-style: none;
-    height: 220px;
+    height: 200px;
     margin: 20px;
-    min-height: 220px;
-    min-width: 220px;
-    max-height: 220px;
-    max-width: 220px;
-    width: 220px;
+    min-height: 200px;
+    min-width: 200px;
+    max-height: 200px;
+    max-width: 200px;
+    width: 200px;
     text-decoration: none;
     background-color: #ffffff;
     border: #e7e7e7 solid 1px;
@@ -364,7 +364,7 @@ border-radius: 2px;
 */
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 220px;
+    height: 200px;
     font-size: 14px;
     color: rgb(43, 63, 86);
 }
@@ -375,7 +375,7 @@ border-radius: 2px;
     border-radius: 2px;
     /* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); */
     margin: 10px;
-    height: 220px;
+    height: 200px;
     font-size: 12px;
     color: #555;
 }
@@ -520,7 +520,7 @@ border-radius: 2px;
 .projectName {
     padding-left: 15px;
     height: 50px;
-    width: 220px;
+    width: 200px;
     border-right: 1px solid #eeeeee;
     display: flex;
     flex-direction: column;
@@ -559,7 +559,7 @@ border-radius: 2px;
 }
 
 .projectTech {
-    height: 220px;
+    height: 200px;
     border-bottom: 1px solid #eeeeee;
 }
 
@@ -716,7 +716,7 @@ border-radius: 2px;
         width: 342px;
     }
     .top {
-        height: 220px;
+        height: 200px;
     }
     .title {
         display: flex;
@@ -736,17 +736,17 @@ border-radius: 2px;
         max-width: 600px;
     }
     .tile {
-        height: 210px;
-        min-height: 210px;
-        min-width: 210px;
-        max-height: 210px;
-        max-width: 210px;
-        width: 210px;
+        height: 200px;
+        min-height: 200px;
+        min-width: 200px;
+        max-height: 200px;
+        max-width: 200px;
+        width: 200px;
         margin: 40px;
     }
     .project-icon {
-        height: 220px;
-        width: 220px;
+        height: 200px;
+        width: 200px;
     }
     li:nth-of-type(3) {
         margin-right: 40px;
@@ -761,7 +761,7 @@ border-radius: 2px;
         max-width: 400px;
         justify-content: center;
         width: 400px;
-        height: 220px;
+        height: 200px;
     }
     .top {
         height: 300px;
