@@ -396,13 +396,13 @@ border-radius: 2px;
 }
 
 .wrapper {
-    padding: 0;
-    margin: 0;
-    background-color: #fafafa;
-    /* background: #FFF; */
-    /* background: url(grid.jpg); */
-    font-family: 'Karla', 'Open Sans', sans-serif;
-    /* -webkit-font-smoothing: antialiased; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /* background-color: #fff; */
+    border-radius: 2px;
+    margin-top: 30px;
+    /* padding: 30px; */
 }
 
 .inner {
