@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [csc]
 ---
 
-A little while ago I wrote about the corporate service corps assignment that I'll be working on in Brazil this August. I want to try and blog about the experience as I go along. 
+A little while ago I wrote about the [corporate service corps assignment that I'll be working on in Brazil this August](http://www.hickory.ca/anton/2017/04/10/corporate-service-corps). I want to try and blog about the experience as I go along. 
 
 This week I learned a little more. I learned who the people in my group will be, and where they come from. There are a dozen people on my team, from ten countries:
 
