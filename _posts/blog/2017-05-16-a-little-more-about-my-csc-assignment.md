@@ -13,7 +13,7 @@ Canada, China, Germany, Ireland, Japan, Korea, Pakistan, Singapore, Slovakia, US
 
 Or in map form:
 
-![Where our CSC group comes from](../../images/participants.png)
+![Where our CSC group comes from](http://www.hickory.ca/images/participants.png)
 
 
 I'll be working and hanging out with them for four weeks, so I have the opportunity to learn not just about Brazil's culture, but about culture from six countries I've never been to. It inspires me to think about the diversity of culure, skill and experiences - how they'll blend. Feels a bit like an experiment as well as an adventure!
