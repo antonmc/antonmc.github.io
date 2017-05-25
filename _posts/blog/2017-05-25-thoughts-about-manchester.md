@@ -9,7 +9,7 @@ Manchester is making the news this week, because a suicide bomber killed 22 peop
 
 This week's news has me thinking back to my student days in Manchester. It was the city that taught me some sense of 'normality' after growing up in the conflict of N. Ireland. So, the news is triggering many emotions for me.
 
-[Peace, Love, Manchester](http://www.hickory.ca/images/peacelove.png)
+![Peace, Love, Manchester](http://www.hickory.ca/images/peacelove.png)
 
 Manchester turned me into a software engineer. It gave me a career.
 
