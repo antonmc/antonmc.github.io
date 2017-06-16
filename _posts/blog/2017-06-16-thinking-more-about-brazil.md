@@ -13,7 +13,7 @@ Prework is, I guess, a way introducing us. It confirms that our assignment is fo
 
 It forces us to set aside a part of each day to think about what we're doing. It emphasizes cultural awareness of each other ( reminder - we come from 10 countries ) as well as researching culture in Brazil.
 
-We took a test and had our data plotted on a cultural measurement tool. I was a little shocked to see how much I vary in thinking from people in Brazil. My assumptions were that Brazilians were easy going, accepting people. It turns out from the data, that they value facts, details and  
+We took a test and had our data plotted on a cultural measurement tool. I was a little shocked to see how much I vary in thinking from people in Brazil. My assumptions were that Brazilians were easy going people. It turns out from the cultural data, that they value facts, details and hierarchies!
 
 We were tasked to interview another person, and be interviewed by yet another person on the team. We are listening to the interviews of others in our weekly meeting, and chatting together on a Slack organization that we made for the group. Through exercises, we're figuring out each other's culture and learning a little about the culture of the city we'll be working in.
 
