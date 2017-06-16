@@ -7,6 +7,8 @@ tags : [csc]
 
 We're a few weeks into 'prework' for my [Corporate Service Corps assignment in August](http://www.hickory.ca/anton/2017/04/10/corporate-service-corps), now, and day by day it is starting to feel more real that I'll live and work in Brazil for a month with 11 new acquaintances from around the world.
 
+### Prework
+
 Prework is, I guess, a way introducing us. It confirms that our assignment is for real. We're being sent to work for a month in another country, another continent with [11 complete strangers](http://www.hickory.ca/anton/2017/05/16/more-about-my-corporate-service-assignment), who are revealing themselves to us through weekly exercises.
 
 It forces us to set aside a part of each day to think about what we're doing. It emphasizes cultural awareness of each other ( reminder - we come from 10 countries ) as well as researching culture in Brazil.
@@ -15,11 +17,11 @@ We took a test and had our data plotted on a cultural measurement tool. I was a 
 
 We were tasked to interview another person, and be interviewed by yet another person on the team. We are listening to the interviews of others in our weekly meeting, and chatting together on a Slack organization that we made for the group. Through exercises, we're figuring out each other's culture and learning a little about the culture of the city we'll be working in.
 
-- - -
+### Visa
 
 Today I applied for a business visa. I gathered up the necessary documents, photos and letters and handed over my passport to the Embassy of Brazil in Ottawa for processing. My flight is booked and I've already started thinking about what to pack!
 
-- - -
+### Travel
 
 While we're waiting to hear about what problem I'll be working on, we've begun figuring out logistics. For the month we're there, we're there to work ... so that means applying for a visa, booking tickets to Sao Paulo.
 
