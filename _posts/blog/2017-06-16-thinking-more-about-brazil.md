@@ -5,11 +5,9 @@ tagline: "Supporting tagline"
 tags : [csc]
 ---
 
-We're a few weeks into 'prework' for my Corporate Service Corps assignment in August, now, and day by day it is starting to feel more real that I'll live and work in Brazil for a month with 11 new acquaintances from around the world.
+We're a few weeks into 'prework' for my [Corporate Service Corps assignment in August](http://www.hickory.ca/anton/2017/04/10/corporate-service-corps), now, and day by day it is starting to feel more real that I'll live and work in Brazil for a month with 11 new acquaintances from around the world.
 
-![Brazil Flag](http://hickory.ca/images/brazil.svg)
-
-Prework is, I guess, a way introducing us. It confirms that our assignment is for real. We're being sent to work for a month in another country, another continent with 11 complete strangers, who are revealing themselves to us through weekly exercises.
+Prework is, I guess, a way introducing us. It confirms that our assignment is for real. We're being sent to work for a month in another country, another continent with [11 complete strangers](http://www.hickory.ca/anton/2017/05/16/more-about-my-corporate-service-assignment), who are revealing themselves to us through weekly exercises.
 
 It forces us to set aside a part of each day to think about what we're doing. It emphasizes cultural awareness of each other ( reminder - we come from 10 countries ) as well as researching culture in Brazil.
 
