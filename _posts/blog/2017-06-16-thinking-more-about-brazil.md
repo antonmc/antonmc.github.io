@@ -7,7 +7,7 @@ tags : [csc]
 
 We're a few weeks into 'prework' for my Corporate Service Corps assignment in August, now, and day by day it is starting to feel more real that I'll live and work in Brazil for a month with 11 new acquaintances from around the world.
 
-[Brazil Flag](http://hickory.ca/images/brazil.svg)
+![Brazil Flag](http://hickory.ca/images/brazil.svg)
 
 Prework is, I guess, a way introducing us. It confirms that our assignment is for real. We're being sent to work for a month in another country, another continent with 11 complete strangers, who are revealing themselves to us through weekly exercises.
 
@@ -23,8 +23,14 @@ Today I applied for a business visa. I gathered up the necessary documents, phot
 
 - - -
 
-I've also started thinking about the assignment differently lately. While we're waiting to hear about what problem I'll be working on, we've begun figuring out logistics. For the month we're there, we're there to work ... so that means applying for a visa, booking tickets to Sao Paulo.
+While we're waiting to hear about what problem I'll be working on, we've begun figuring out logistics. For the month we're there, we're there to work ... so that means applying for a visa, booking tickets to Sao Paulo.
 
-At first I accepted that the amount of Brazil that I'd see was the city of Campinas. But, I can travel a little after the end of the assignment at my own expense ... so I bought a guide book to Brazil and started researching.
+At first I accepted that the extent of Brazil that I'd see was the city of Campinas. But, I can travel a little after the end of the assignment at my own expense ... so I bought a guide book to Brazil and started researching.
 
-Brazil is enormous, and diverse. There are so many places that seem unique, and beyond interesting ... perhaps even more than any other country I've been to in my life. I'm going to stay a week longer. There are two immediate things that I'd love to see. One of them is Rio De Janeiro, and the other is the Amazon. If I had to choose one it would be the Amazon Rain Forest.
+Brazil is enormous, and diverse. There are so many places that seem unique, and beyond interesting ... perhaps even more than any other country I've been to in my life. So, I'm going to stay a week longer. There are two immediate things that I'd love to see. One of them is Rio De Janeiro, and the other is the Amazon. If I had to choose one it would be the Amazon.
+
+I'm working on a plan to spend a few days at a jungle lodge, joining one of the other participants. When plans are final I'll write a bit more.
+
+I've been reflecting on the whirlwind of traveling that I had the opportunity to do in the past couple of years. I've been very lucky - having been to South America twice, for just a couple of weeks, and promising myself that I'd return to see Patagonia some day.
+
+Since this CSC trip requires more preparation, and since I'm spending a month living in a Brazilian city, I'm trying to savour the experience more - slow down and be mindful, and take some more time to reflect on the trip, and the past few years while I can.
