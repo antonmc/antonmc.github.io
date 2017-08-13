@@ -15,7 +15,7 @@ Except that flight was delayed. Against my better judgement I took it anyway ...
 
 The gate agent gave me a booklet of coupons ... for a hotel room, for food at the airport, for a shuttle to the hotel, and a note about the same flight to Sao Paulo the next day ... on a Saturday.
 
-My luggage wasn't on the belt. Just me an a few Spanish speaking families from Panama. Luckily I know some Spanish - and we agreed that our luggage wasn't coming. It was late and there was no one to ask about it. We all just took the shuttle to a hotel.
+My luggage wasn't on the belt. Just me and a few Spanish speaking families from Panama. Luckily I know some Spanish - and we agreed that our luggage wasn't coming. It was late and there was no one to ask about it. We all just took the shuttle to a hotel.
 
 Next morning I was kind of surprised to learn that I wasn't booked on a flight to Sao Paulo that night at all ... I was on standby.
 
@@ -33,7 +33,7 @@ So, I caught the flight to Chicago ... and we even boarded on time. It looked so
 
 For a while I thought that I'd arrive late in Chicago and be sent to another American city the next day ... but we made it on time :)
 
-I caught a flight to Sao Paulo!
+I caught a flight to Sao Paulo! And after first trying to get here on a Thursday, I finally arrived on a Sunday!
 
 I have to be honest ... every time I've ever flown from or to Canada with United Airlines, there has always been a problem. While I know there were storms this time, I can't help the feeling that these days it seems fine for their flights to arrive late. It has turned into a normal thing.
 
