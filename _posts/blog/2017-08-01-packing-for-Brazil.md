@@ -7,7 +7,7 @@ tags : [csc]
 
 Well, my suitcase is mostly packed for Brazil, for a 5 week stay there.
 
-Four of those weeks will be working on an not for profit assignment. Surprisingly not for profit, given that my time in Brazil will be paid for by my employer, IBM!
+Four of those weeks will be working on a not for profit assignment. It is surprisingly not for profit, given that my [time in Brazil will be paid for by my employer, IBM!](http://www.hickory.ca/anton/2017/04/10/corporate-service-corps)
 
 In fact, we have been coached to be independently minded - although we represent IBM, we put ourselves in the shoes of our client, and use whatever solutions make sense, economically, technologically, strategically, from whatever vendor.
 
