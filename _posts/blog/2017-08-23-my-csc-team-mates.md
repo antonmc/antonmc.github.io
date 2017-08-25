@@ -20,9 +20,9 @@ Although I've heard the phrase 'smart city' be talked about a lot, I haven't giv
 2. It would help me empathize about this particular city in Brasil
 3. It could let me collaborate on work that would help other people
 
-To be honest, I feel like I could already write a book about the joy I've had from this assignment. I am very lucky to be able to work here for a month. Here are a few notes so far.
+To be honest, I feel like I could already write a book about the joy I've had from this assignment. I am very lucky to be able to work here for a month. 
 
-In this post I'm going to write about the people I've met here. 
+Here are a few notes about the people I've met here. 
 
 In the next post I'll write some thoughts about the project.
 
@@ -41,6 +41,7 @@ Our bonus IBM team mate is Victor - our local translator - who just last week wa
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BX0nO7Bn1LF/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">With my team outside town hall #cscbrasil22 #campinas #travel #softwareforgood</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Anton McConville (@antonmc) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-15T17:01:39+00:00">Aug 15, 2017 at 10:01am PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
 
 Also his mom makes incredible cakes ( bolos ) for us. I don't know whether to thank them both, or curse them for the delicious cakes! I have to confess today that I had three helpings of one today :|
 
