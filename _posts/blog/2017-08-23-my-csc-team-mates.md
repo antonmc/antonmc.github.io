@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [csc]
 ---
 
-My Corporate Service Corps assignment is just over the half way point.
+My [Corporate Service Corps assignment](http://www.hickory.ca/anton/2017/04/10/corporate-service-corps) is just over the half way point.
 
 Time has certainly gone by quickly.
 
@@ -22,7 +22,7 @@ Although I've heard the phrase 'smart city' be talked about a lot, I haven't giv
 
 To be honest, I feel like I could already write a book about the joy I've had from this assignment. I am very lucky to be able to work here for a month. 
 
-Here are a few notes about the people I've met here. 
+Here are a few notes about the teams I've been working with at [IMA]( https://ima.sp.gov.br/). 
 
 In the next post I'll write some thoughts about the project.
 
